@@ -49,6 +49,10 @@ Covering:
 * Ad hoc querying and exploring your results (Zeppelin) 
 * Painpoints & Lessons learned the hard way (is there any other way?)
 
+**Slides:** http://www.slideshare.net/DanielMarcous/productionready-big-ml-workflows-from-zero-to-hero
+
+**Code:** https://github.com/dmarcous/BigMLFlow
+
 
 
 DataTalks #2: Markov blankets for feature selection & app mentions in texts 
