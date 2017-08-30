@@ -8,12 +8,13 @@ The `DataTalks <https://www.meetup.com/DataHack>`_ meetup series is hosted by di
 
 You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
 
+|
 
-.. contents::
+.. contents:: **Past meetups:**
 
 .. section-numbering:
 
-
+|
 
 DataTalks #1: Web traffic estimation and big ML workflows 
 =========================================================
