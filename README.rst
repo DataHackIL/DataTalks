@@ -90,7 +90,7 @@ Yoav Ram, Stanford - Dive into Scientific Python
 
 **Abstract:** I will introduce the Python programming language and demonstrate how Scientific Python can be used to study evolutionary theory using mathematical and computational models. We'll see how to run fast evolutionary simulations with NumPy and Cython, analyze and visualize simulation results with Pandas and Seaborn, and find solutions to evolutionary models using SciPy. This talk is a wonderful opportunity to learn about Scientific Python through actual research-based examples, as well as an occasion to to discover how theoretical evolutionary biologists approach their research.
 
-**Presentation:** https://github.com/yoavram/DataTalks2017
+**Slides:** https://github.com/yoavram/DataTalks2017
 
 **Code:** https://github.com/yoavram/PyConIL2016  (take a look at ``notebook.ipynb``)
 
@@ -103,3 +103,28 @@ Shay Palachy, Neura - Quick & dirty data science in Python
 **Title:** Quick & dirty data science in Python
 
 **Abstract:** In this talk I will present a classification challenge we had at Neura, and how we tackled it, using the simplest machine learning tools and some dirty heuristics to get a working system with good results in a short amount of time. 
+
+
+
+DataTalks #4: Python on Spark and location-based search
+=======================================================
+
+Erez Barshir, Easy - Data Science in location-based search
+------------------------------------------------
+**Speaker:** Erez Barshir, Easy
+
+**Title:** Data Science in location-based search
+
+**Abstract:** Local businesses are changing fast. In Israel alone, every two or three minutes some local business changes substantially (open/close/changes location). This means that keeping a dataset of local businesses up-to-date manually is a costly and non-scalable operation. One important aspect of this problem is trying to determine whether a local business is permanently closed. We will examine a data science-based approach to this problem and try to answer some related and more nuanced questions. We will see some of Easy's engineering, real data and code and general approach to such issues. 
+
+
+Alex Landa, Trainologic - Python Spark Intro for Data Scientists
+----------------------------------------------------------------
+**Speaker:** Alex Landa, Trainologic
+
+**Title:** Python Spark Intro for Data Scientists 
+
+**Abstract:** As a data scientist you need to know how to handle large data sets, how to clean them, analyze them and get conclusions from them. Spark is a mandatory tool for that - a distributed computation engine that enables you to run map-reduce tasks using a friendly Python (and Scala) API. 
+After this talk you will understand what Spark is and how to start using it. We will cover Spark architecture and workflow, understand the usage of RDD and DataFrame APIs and see some hands-on examples.
+
+**Slides and code:** http://trainologic.com/python-spark-intro-data-scientists-2/
