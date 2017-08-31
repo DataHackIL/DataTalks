@@ -124,8 +124,7 @@ Alex Landa, Trainologic - Python Spark Intro for Data Scientists
 
 **Title:** Python Spark Intro for Data Scientists 
 
-**Abstract:** As a data scientist you need to know how to handle large data sets, how to clean them, analyze them and get conclusions from them. Spark is a mandatory tool for that - a distributed computation engine that enables you to run map-reduce tasks using a friendly Python (and Scala) API. 
-After this talk you will understand what Spark is and how to start using it. We will cover Spark architecture and workflow, understand the usage of RDD and DataFrame APIs and see some hands-on examples.
+**Abstract:** As a data scientist you need to know how to handle large data sets, how to clean them, analyze them and get conclusions from them. Spark is a mandatory tool for that - a distributed computation engine that enables you to run map-reduce tasks using a friendly Python (and Scala) API. After this talk you will understand what Spark is and how to start using it. We will cover Spark architecture and workflow, understand the usage of RDD and DataFrame APIs and see some hands-on examples.
 
 **Slides and code:** http://trainologic.com/python-spark-intro-data-scientists-2/
 
@@ -140,7 +139,34 @@ Dr. Eyal Gruss - A Shallow Introduction to Deep Learning
 
 **Title:** A Shallow Introduction to Deep Learning
 
-**Abstract:** We've partnered with Dr. Eyal Gruss for an introductory lecture to deep learning, in which he will cover the latest innovations in Computer Vistion, NLP and other fields. 
-Note: Unlike most of our meetups, this is an *introductory* lecture. It DOES NOT require previous knowledge. It is not recommended for people with background in deep learning, but highly recommended for people looking to get into the field or get an idea of what it's about.  
+**Abstract:** We've partnered with Dr. Eyal Gruss for an introductory lecture to deep learning, in which he will cover the latest innovations in Computer Vistion, NLP and other fields. *Note: Unlike most of our meetups, this is an introductory lecture. It DOES NOT require previous knowledge. It is not recommended for people with background in deep learning, but highly recommended for people looking to get into the field or get an idea of what it's about.*
 
 **Slides:** http://bit.ly/introduction-deep-learning
+
+
+
+
+DataTalks #5: Advanced Topics in Clustering
+===========================================
+
+Ilai Falach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
+----------------------------------------------------------------------
+**Speaker:** Ilai Falach, StoreSmarts
+
+**Title:** K-means++: Harder, Better, Faster, Stronger
+
+**Abstract:** In this talk I will give an overview of center-based clustering methods, starting from the well known k-center and k-means methods. These will give the motivation for the k-means++ method, which extends k-means by making the random initialization of data points more intelligent. We will show guarantees on convergence and approximation of the algorithm, and go through the actual proofs.
+
+**Slides:** asd
+
+
+Nadav Bar, Google - A Practical Intro To Density Based Clustering
+-----------------------------------------------------------------
+**Speaker:** Nadav Bar, Google
+
+**Title:** A Practical Intro To Density Based Clustering
+
+**Abstract:** Although they have received less attention compared to Centroid-based clustering methods, such as k-means, density based clustering methods offer some very appealing features for their users, including the ability to discover the number of clusters automatically, as well as the detection of clusters of different shapes and sizes. In this talk, I will present several density-based clustering methods, starting from the classic DBSCAN method, and moving forward to newer and more advanced methods. As part of the talk, we will walk through each algorithm’s inner workings, and we will also see live code examples for each of the clustering methods.
+
+**Slides:** asd
+**Code:** https://github.com/nadavbar/density-based-clustering
