@@ -2,9 +2,9 @@ DataTalks
 #########
 
 
-This is the home for the `DataTalks <https://www.meetup.com/DataHack>`_ meetup series and other events by `DataHack <http://datahack-il.com/>`_, like our annual hackathon. :) 
+This is a list of past talks in the  `DataTalks <https://www.meetup.com/DataHack>`_ meetup series by `DataHack <http://datahack-il.com/>`_.
 
-The `DataTalks <https://www.meetup.com/DataHack>`_ meetup series is hosted by different companies, with each meetup usually featuring two speakers. Talks touch on a variety of subjects in machine learning, statistics, data engineering and other data science related topics. 
+The `DataTalks <https://www.meetup.com/DataHack>`_ meetup series is hosted by different companies, with each meetup usually featuring two speakers, where at least one of the speakers - and sometimes both - is not an employee of the hosting company. Talks touch on a variety of subjects in machine learning, statistics, data engineering and other data science related topics. 
 
 You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
 
@@ -75,3 +75,31 @@ Doron Kukliansky, Facebook - App mentions in texts
 **Title:** App mentions in texts
 
 **Abstract:** As people move further away from desktop usage and spend more of time on their mobile devices, mobile apps are changing the way we interact with the Internet. But how can we identify which apps are really trending and why? This technical talk will discuss the implementation details of a small identification engine that identifies when mobile apps are mentioned in Facebook posts and are covered in the media. We will start from a simple idea and develop it, step by step, to reach our final algorithm. We will use only basic concepts from probability, statistics, machine learning and NLP, but dive deeper into their meaning and applications, to gain additional insights into the problem.
+
+
+
+
+DataTalks #3: Dive into Data Science with Python 
+================================================
+
+Yoav Ram, Stanford - Dive into Scientific Python
+------------------------------------------------
+**Speaker:** Yoav Ram, Stanford
+
+**Title:** Dive into Scientific Python
+
+**Abstract:** I will introduce the Python programming language and demonstrate how Scientific Python can be used to study evolutionary theory using mathematical and computational models. We'll see how to run fast evolutionary simulations with NumPy and Cython, analyze and visualize simulation results with Pandas and Seaborn, and find solutions to evolutionary models using SciPy. This talk is a wonderful opportunity to learn about Scientific Python through actual research-based examples, as well as an occasion to to discover how theoretical evolutionary biologists approach their research.
+
+**Presentation:** https://github.com/yoavram/DataTalks2017
+
+**Code:** https://github.com/yoavram/PyConIL2016  (take a look at ``notebook.ipynb``)
+
+
+
+Shay Palachy, Neura - Quick & dirty data science in Python
+----------------------------------------------------------
+**Speaker:** Shay Palachy, Neura  
+
+**Title:** Quick & dirty data science in Python
+
+**Abstract:** In this talk I will present a classification challenge we had at Neura, and how we tackled it, using the simplest machine learning tools and some dirty heuristics to get a working system with good results in a short amount of time. 
