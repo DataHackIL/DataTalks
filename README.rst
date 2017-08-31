@@ -181,3 +181,15 @@ Nadav Bar, Google - A Practical Intro To Density Based Clustering
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_5/density_clustering_datahack_meetup.pdf
 **Code:** https://github.com/nadavbar/density-based-clustering
+
+
+
+
+DataTalks #6: DataHack Champions
+===========================================
+
+Our sixth meetup will be hosted by Taboola, and will feature cool past projects done in DataHack.  
+
+**Event page:** https://www.meetup.com/DataHack/events/242508298/
+
+Registration is still open. :)
