@@ -18,6 +18,7 @@ You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twi
 
 DataTalks #1: Web traffic estimation and big ML workflows 
 =========================================================
+**Event page:** https://www.meetup.com/DataHack/events/231012715/
 
 Roy Yadoo, SimilarWeb - Web traffic estimation as a meta-analysis challenge
 ------------------------------------------------------------------------------------
@@ -57,6 +58,7 @@ Covering:
 
 DataTalks #2: Markov blankets for feature selection & app mentions in texts 
 ===========================================================================
+**Event page:** https://www.meetup.com/DataHack/events/232842934/
 
 Avishay Meron, PayPal - On feature selection: Key ideas and utilization in fraud analysis
 -----------------------------------------------------------------------------------------
@@ -81,6 +83,7 @@ Doron Kukliansky, Facebook - App mentions in texts
 
 DataTalks #3: Dive into Data Science with Python 
 ================================================
+**Event page:** https://www.meetup.com/DataHack/events/237926275/
 
 Yoav Ram, Stanford - Dive into Scientific Python
 ------------------------------------------------
@@ -110,6 +113,7 @@ Shay Palachy, Neura - Quick & dirty data science in Python
 
 DataTalks #4: Python on Spark and location-based search
 =======================================================
+**Event page:** https://www.meetup.com/DataHack/events/239689575/
 
 Erez Barshir, Easy - Data Science in location-based search
 ------------------------------------------------
@@ -134,6 +138,7 @@ Alex Landa, Trainologic - Python Spark Intro for Data Scientists
 
 DataTalks #4.5: A Shallow Introduction to Deep Learning
 =====================================================
+**Event page:** https://www.meetup.com/DataHack/events/239977617/
 
 Dr. Eyal Gruss - A Shallow Introduction to Deep Learning
 ------------------------------------------------
@@ -150,6 +155,8 @@ Dr. Eyal Gruss - A Shallow Introduction to Deep Learning
 
 DataTalks #5: Advanced Topics in Clustering
 ===========================================
+
+**Event page:** https://www.meetup.com/DataHack/events/242507384/
 
 Ilai Falach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
 ----------------------------------------------------------------------
