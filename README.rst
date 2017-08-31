@@ -160,9 +160,9 @@ DataTalks #5: Advanced Topics in Clustering
 
 **Event page:** https://www.meetup.com/DataHack/events/242507384/
 
-Ilai Falach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
+Illai Falach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
 ----------------------------------------------------------------------
-**Speaker:** Ilai Falach, StoreSmarts
+**Speaker:** Illai Falach, StoreSmarts
 
 **Title:** K-means++: Harder, Better, Faster, Stronger
 
