@@ -90,6 +90,8 @@ Yoav Ram, Stanford - Dive into Scientific Python
 
 **Abstract:** I will introduce the Python programming language and demonstrate how Scientific Python can be used to study evolutionary theory using mathematical and computational models. We'll see how to run fast evolutionary simulations with NumPy and Cython, analyze and visualize simulation results with Pandas and Seaborn, and find solutions to evolutionary models using SciPy. This talk is a wonderful opportunity to learn about Scientific Python through actual research-based examples, as well as an occasion to to discover how theoretical evolutionary biologists approach their research.
 
+**Recording:** https://www.youtube.com/watch?v=2MnSfWD44IM
+
 **Slides:** https://github.com/yoavram/DataTalks2017
 
 **Code:** https://github.com/yoavram/PyConIL2016  (take a look at ``notebook.ipynb``)
@@ -157,7 +159,7 @@ Ilai Falach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
 
 **Abstract:** In this talk I will give an overview of center-based clustering methods, starting from the well known k-center and k-means methods. These will give the motivation for the k-means++ method, which extends k-means by making the random initialization of data points more intelligent. We will show guarantees on convergence and approximation of the algorithm, and go through the actual proofs.
 
-**Slides:** asd
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_5/clustering-intro-center-based.pdf
 
 
 Nadav Bar, Google - A Practical Intro To Density Based Clustering
@@ -168,5 +170,5 @@ Nadav Bar, Google - A Practical Intro To Density Based Clustering
 
 **Abstract:** Although they have received less attention compared to Centroid-based clustering methods, such as k-means, density based clustering methods offer some very appealing features for their users, including the ability to discover the number of clusters automatically, as well as the detection of clusters of different shapes and sizes. In this talk, I will present several density-based clustering methods, starting from the classic DBSCAN method, and moving forward to newer and more advanced methods. As part of the talk, we will walk through each algorithm’s inner workings, and we will also see live code examples for each of the clustering methods.
 
-**Slides:** asd
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_5/density_clustering_datahack_meetup.pdf
 **Code:** https://github.com/nadavbar/density-based-clustering
