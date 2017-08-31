@@ -128,3 +128,19 @@ Alex Landa, Trainologic - Python Spark Intro for Data Scientists
 After this talk you will understand what Spark is and how to start using it. We will cover Spark architecture and workflow, understand the usage of RDD and DataFrame APIs and see some hands-on examples.
 
 **Slides and code:** http://trainologic.com/python-spark-intro-data-scientists-2/
+
+
+
+DataTalks #4.5: A Shallow Introduction to Deep Learning
+=====================================================
+
+Dr. Eyal Gruss - A Shallow Introduction to Deep Learning
+------------------------------------------------
+**Speaker:** Dr. Eyal Gruss
+
+**Title:** A Shallow Introduction to Deep Learning
+
+**Abstract:** We've partnered with Dr. Eyal Gruss for an introductory lecture to deep learning, in which he will cover the latest innovations in Computer Vistion, NLP and other fields. 
+Note: Unlike most of our meetups, this is an *introductory* lecture. It DOES NOT require previous knowledge. It is not recommended for people with background in deep learning, but highly recommended for people looking to get into the field or get an idea of what it's about.  
+
+**Slides:** http://bit.ly/introduction-deep-learning
