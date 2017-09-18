@@ -222,9 +222,9 @@ Sraia  Louis, The Hebrew University -  Using graphs to predict ship type accordi
 
 **Abstract:**  In this talk we will discuss our DataHack project in which we attempted to generate new episodes of The Simpsons, using data science tool. We will see the general approach, the data we had, but more importantly, the data we did not have and how we compensated for it. We will also deep dive into two technical problems we encountered during the project and are of general interest:
 
-* The first is speaker recognition, for which we'll discuss the MFCC features and how they can be used for classification.
+- The first is speaker recognition, for which we'll discuss the MFCC features and how they can be used for classification.
 
-* The second is semantic sentence similarity, for which we'll discuss the Word Mover's Distance, it's origin and usage.
+- The second is semantic sentence similarity, for which we'll discuss the Word Mover's Distance, it's origin and usage.
 
 *(prior familiarity with The Simpsons isn't necessary but is an advantage)*
 
