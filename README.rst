@@ -211,6 +211,8 @@ Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction :t
 
 **Abstract:** In this talk I'll share how we attempted to predict a cab ride duration using various generated features and models, and how we settled on a model ensemble approach to utilize the advantages of different models and used it to win the Final challenge of DataHack 2016. I will also talk about ensemble methods, how to choose a model that will give good results in a short amount of time and how to engineer and choose good features. Finally, I will share lessons learned from multiple kaggle competitions and being part of winning teams in DataHack for two years in a row.
 
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/datatalks_6-eta_prediction_challenge.pdf
+
 
 Doron Kukliansky -  Data Driven Video Creation :video_camera:
 -------------------------------------------------------
