@@ -160,6 +160,7 @@ DataTalks #5: Advanced Topics in Clustering
 
 **Event page:** https://www.meetup.com/DataHack/events/242507384/
 
+
 Ilai Fallach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
 ----------------------------------------------------------------------
 **Speaker:** Ilai Fallach, StoreSmarts
@@ -188,8 +189,45 @@ Nadav Bar, Google - A Practical Intro To Density Based Clustering
 DataTalks #6: DataHack Champions
 ===========================================
 
-Our sixth meetup will be hosted by Taboola, and will feature cool past projects done in DataHack.  
+Our sixth meetup was hosted by Taboola, and featured cool past projects done in DataHack.  
 
 **Event page:** https://www.meetup.com/DataHack/events/242508298/
 
-Registration is still open. :)
+
+Sraia  Louis, The Hebrew University -  Using graphs to predict ship type according to ship behavior
+----------------------------------------------------------------------
+**Speaker:** Sraia  Louis, The Hebrew University of Jerusalem
+
+**Title:** Using graphs to predict ship type according to ship behavior
+
+**Abstract:** Given the behavior of ships such as port visits and ship-to-ship meetings - we are trying to categorize ship type based on ship behavior: oil, container, fishing etc. In this talk we will discuss how engineering new features based on the graph that a ship spans can capture a ship's behavior and thus improve classification accuracy. We will present the problem, the mathematical tools and some intuition - and for the fun we will conclude with failure points (and possible solutions).
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6_Sea_snails.pdf
+
+
+ Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction
+----------------------------------------------------------------------
+**Speaker:** Seffi Cohen, Chief Data Scientist, IDF
+
+**Title:** Ensemble models approach for cab ride duration prediction
+
+**Abstract:** In this talk I'll share how we attempted to predict a cab ride duration using various generated features and models, and how we settled on a model ensemble approach to utilize the advantages of different models and used it to win the Final challenge of DataHack 2016. I will also talk about ensemble methods, how to choose a model that will give good results in a short amount of time, how to engineer and choose good features and share lessons learned from multiple kaggle competitions and being part of winning teams in DataHack for two years in a row.
+
+
+ Doron Kukliansky, Google -  Data Driven Video Creation
+----------------------------------------------------------------------
+**Speaker:** Doron Kukliansky, Google
+
+**Title:** Data Driven Video Creation
+
+**Abstract:**  In this talk we will discuss our DataHack project in which we attempted to generate new episodes of The Simpsons, using data science tool. We will see the general approach, the data we had, but more importantly, the data we did not have and how we compensated for it. We will also deep dive into two technical problems we encountered during the project and are of general interest:
+
+* The first is speaker recognition, for which we'll discuss the MFCC features and how they can be used for classification.
+
+* The second is semantic sentence similarity, for which we'll discuss the Word Mover's Distance, it's origin and usage.
+
+_(prior familiarity with The Simpsons isn't necessary but is an advantage)_
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6-SimPhony.pdf
+
+
