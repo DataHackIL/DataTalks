@@ -226,7 +226,7 @@ Sraia  Louis, The Hebrew University -  Using graphs to predict ship type accordi
 
 * The second is semantic sentence similarity, for which we'll discuss the Word Mover's Distance, it's origin and usage.
 
-_(prior familiarity with The Simpsons isn't necessary but is an advantage)_
+*(prior familiarity with The Simpsons isn't necessary but is an advantage)*
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6-SimPhony.pdf
 
