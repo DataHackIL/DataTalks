@@ -185,14 +185,12 @@ Nadav Bar, Google - A Practical Intro To Density Based Clustering
 
 
 
-
 DataTalks #6: DataHack Champions
 ===========================================
 
 Our sixth meetup was hosted by Taboola, and featured cool past projects done in DataHack.  
 
 **Event page:** https://www.meetup.com/DataHack/events/242508298/
-
 
 Sraia  Louis, The Hebrew University -  Using graphs to predict ship type according to ship behavior
 ----------------------------------------------------------------------
@@ -205,7 +203,7 @@ Sraia  Louis, The Hebrew University -  Using graphs to predict ship type accordi
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6_Sea_snails.pdf
 
 
- Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction
+Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction
 ----------------------------------------------------------------------
 **Speaker:** Seffi Cohen, Chief Data Scientist, IDF
 
@@ -214,8 +212,8 @@ Sraia  Louis, The Hebrew University -  Using graphs to predict ship type accordi
 **Abstract:** In this talk I'll share how we attempted to predict a cab ride duration using various generated features and models, and how we settled on a model ensemble approach to utilize the advantages of different models and used it to win the Final challenge of DataHack 2016. I will also talk about ensemble methods, how to choose a model that will give good results in a short amount of time, how to engineer and choose good features and share lessons learned from multiple kaggle competitions and being part of winning teams in DataHack for two years in a row.
 
 
- Doron Kukliansky, Google -  Data Driven Video Creation
-----------------------------------------------------------------------
+Doron Kukliansky, Google -  Data Driven Video Creation
+-------------------------------------------------------
 **Speaker:** Doron Kukliansky, Google
 
 **Title:** Data Driven Video Creation
@@ -229,5 +227,3 @@ Sraia  Louis, The Hebrew University -  Using graphs to predict ship type accordi
 *(prior familiarity with The Simpsons isn't necessary but is an advantage)*
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6-SimPhony.pdf
-
-
