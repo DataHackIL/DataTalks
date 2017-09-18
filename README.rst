@@ -22,7 +22,7 @@ DataTalks #1: Web traffic estimation and big ML workflows
 =========================================================
 **Event page:** https://www.meetup.com/DataHack/events/231012715/
 
-Roy Yadoo, SimilarWeb - Web traffic estimation as a meta-analysis challenge
+Roy Yadoo, SimilarWeb - Web traffic estimation as a meta-analysis challenge :vertical_traffic_light:
 ------------------------------------------------------------------------------------
 **Speaker:** Roy Yadoo, SimilarWeb
 
@@ -33,8 +33,8 @@ In this talks, I will present several approaches used at SimilarWeb for estimati
 
 
 
-Daniel Marcous, Google - Production-Ready BIG ML Workflows: From zero to hero
-------------------------------------------------------------------------------------
+Daniel Marcous, Google - Production-Ready BIG ML Workflows: From zero to hero :trophy:
+--------------------------------------------------------------------------------
 **Speaker:** Daniel Marcous, Google
 
 **Title:** Production-Ready BIG ML Workflows: From zero to hero
@@ -62,7 +62,7 @@ DataTalks #2: Markov blankets for feature selection & app mentions in texts
 ===========================================================================
 **Event page:** https://www.meetup.com/DataHack/events/232842934/
 
-Avishay Meron, PayPal - On feature selection: Key ideas and utilization in fraud analysis
+Avishay Meron, PayPal - On feature selection: Key ideas and utilization in fraud analysis :dollar:
 -----------------------------------------------------------------------------------------
 **Speaker:** Avishay Meron, PayPal
 
@@ -72,7 +72,7 @@ Avishay Meron, PayPal - On feature selection: Key ideas and utilization in fraud
 
 
 
-Doron Kukliansky, Facebook - App mentions in texts
+Doron Kukliansky, Facebook - App mentions in texts :iphone:
 --------------------------------------------------
 **Speaker:** Doron Kukliansky, Facebook
 
@@ -87,7 +87,7 @@ DataTalks #3: Dive into Data Science with Python
 ================================================
 **Event page:** https://www.meetup.com/DataHack/events/237926275/
 
-Yoav Ram, Stanford - Dive into Scientific Python
+Yoav Ram, Stanford - Dive into Scientific Python :microscope::snake:
 ------------------------------------------------
 **Speaker:** Yoav Ram, Stanford
 
@@ -103,7 +103,7 @@ Yoav Ram, Stanford - Dive into Scientific Python
 
 
 
-Shay Palachy, Neura - Quick & dirty data science in Python
+Shay Palachy, Neura - Quick & dirty data science in Python :poop::snake:
 ----------------------------------------------------------
 **Speaker:** Shay Palachy, Neura  
 
@@ -117,7 +117,7 @@ DataTalks #4: Python on Spark and location-based search
 =======================================================
 **Event page:** https://www.meetup.com/DataHack/events/239689575/
 
-Erez Barshir, Easy - Data Science in location-based search
+Erez Barshir, Easy - Data Science in location-based search :globe_with_meridians:
 ------------------------------------------------
 **Speaker:** Erez Barshir, Easy
 
@@ -126,7 +126,7 @@ Erez Barshir, Easy - Data Science in location-based search
 **Abstract:** Local businesses are changing fast. In Israel alone, every two or three minutes some local business changes substantially (open/close/changes location). This means that keeping a dataset of local businesses up-to-date manually is a costly and non-scalable operation. One important aspect of this problem is trying to determine whether a local business is permanently closed. We will examine a data science-based approach to this problem and try to answer some related and more nuanced questions. We will see some of Easy's engineering, real data and code and general approach to such issues. 
 
 
-Alex Landa, Trainologic - Python Spark Intro for Data Scientists
+Alex Landa, Trainologic - Python Spark Intro for Data Scientists :snake::boom:
 ----------------------------------------------------------------
 **Speaker:** Alex Landa, Trainologic
 
@@ -138,11 +138,11 @@ Alex Landa, Trainologic - Python Spark Intro for Data Scientists
 
 
 
-DataTalks #4.5: A Shallow Introduction to Deep Learning
+DataTalks #4.5: A Shallow Introduction to Deep Learning 
 =====================================================
 **Event page:** https://www.meetup.com/DataHack/events/239977617/
 
-Dr. Eyal Gruss - A Shallow Introduction to Deep Learning
+Dr. Eyal Gruss - A Shallow Introduction to Deep Learning :fish::orange_book:
 ------------------------------------------------
 **Speaker:** Dr. Eyal Gruss
 
@@ -161,7 +161,7 @@ DataTalks #5: Advanced Topics in Clustering
 **Event page:** https://www.meetup.com/DataHack/events/242507384/
 
 
-Ilai Fallach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
+Ilai Fallach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger :sparkles:
 ----------------------------------------------------------------------
 **Speaker:** Ilai Fallach, StoreSmarts
 
@@ -172,7 +172,7 @@ Ilai Fallach, StoreSmarts - K-means++: Harder, Better, Faster, Stronger
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_5/clustering-intro-center-based.pdf
 
 
-Nadav Bar, Google - A Practical Intro To Density Based Clustering
+Nadav Bar, Google - A Practical Intro To Density Based Clustering :new_moon:
 -----------------------------------------------------------------
 **Speaker:** Nadav Bar, Google
 
@@ -192,7 +192,7 @@ Our sixth meetup was hosted by Taboola, and featured cool past projects done in 
 
 **Event page:** https://www.meetup.com/DataHack/events/242508298/
 
-Sria  Louis, The Hebrew University -  Using graphs to predict ship type according to ship behavior
+Sria  Louis, The Hebrew University -  Using graphs to predict ship type according to ship behavior :ship:
 ----------------------------------------------------------------------
 **Speaker:** Sraia  Louis, The Hebrew University of Jerusalem
 
@@ -203,7 +203,7 @@ Sria  Louis, The Hebrew University -  Using graphs to predict ship type accordin
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6_Sea_snails.pdf
 
 
-Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction
+Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction :taxi:
 ----------------------------------------------------------------------
 **Speaker:** Seffi Cohen, Chief Data Scientist, IDF
 
@@ -212,7 +212,7 @@ Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction
 **Abstract:** In this talk I'll share how we attempted to predict a cab ride duration using various generated features and models, and how we settled on a model ensemble approach to utilize the advantages of different models and used it to win the Final challenge of DataHack 2016. I will also talk about ensemble methods, how to choose a model that will give good results in a short amount of time and how to engineer and choose good features. Finally, I will share lessons learned from multiple kaggle competitions and being part of winning teams in DataHack for two years in a row.
 
 
-Doron Kukliansky, Google -  Data Driven Video Creation
+Doron Kukliansky, Google -  Data Driven Video Creation :video_camera:
 -------------------------------------------------------
 **Speaker:** Doron Kukliansky, Google
 
