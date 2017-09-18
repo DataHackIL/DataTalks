@@ -192,7 +192,7 @@ Our sixth meetup was hosted by Taboola, and featured cool past projects done in 
 
 **Event page:** https://www.meetup.com/DataHack/events/242508298/
 
-Sria  Louis, The Hebrew University -  Using graphs to predict ship type according to ship behavior :ship:
+Sria  Louis, The Hebrew University -  Using graph-based features to predict ship type :ship:
 ----------------------------------------------------------------------
 **Speaker:** Sraia  Louis, The Hebrew University of Jerusalem
 
