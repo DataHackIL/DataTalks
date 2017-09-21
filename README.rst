@@ -200,6 +200,8 @@ Sria  Louis, The Hebrew University -  Using graph-based features to predict ship
 
 **Abstract:** Given the behavior of ships such as port visits and ship-to-ship meetings - we are trying to categorize ship type based on ship behavior: oil, container, fishing etc. In this talk we will discuss how engineering new features based on the graph that a ship spans can capture a ship's behavior and thus improve classification accuracy. We will present the problem, the mathematical tools and some intuition - and for the fun we will conclude with failure points (and possible solutions).
 
+**Video:** https://www.youtube.com/watch?v=xk3Z0zgbS4I
+
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6_Sea_snails.pdf
 
 
@@ -210,6 +212,8 @@ Seffi Cohen, IDF -  Ensemble models approach for cab ride duration prediction :t
 **Title:** A model ensemble approach for cab ride duration prediction
 
 **Abstract:** In this talk I'll share how we attempted to predict a cab ride duration using various generated features and models, and how we settled on a model ensemble approach to utilize the advantages of different models and used it to win the Final challenge of DataHack 2016. I will also talk about ensemble methods, how to choose a model that will give good results in a short amount of time and how to engineer and choose good features. Finally, I will share lessons learned from multiple kaggle competitions and being part of winning teams in DataHack for two years in a row.
+
+**Video:** https://www.youtube.com/watch?v=8d_9n10s3SQ
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/datatalks_6-eta_prediction_challenge.pdf
 
@@ -227,5 +231,7 @@ Doron Kukliansky -  Data Driven Video Creation :video_camera:
 - The second is semantic sentence similarity, for which we'll discuss the Word Mover's Distance, it's origin and usage.
 
 *(prior familiarity with The Simpsons isn't necessary but is an advantage)*
+
+**Video:** https://www.youtube.com/watch?v=GwKq3pHkNc0
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6-SimPhony.pdf
