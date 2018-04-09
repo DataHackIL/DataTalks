@@ -186,7 +186,7 @@ Nadav Bar, Google - A Practical Intro To Density Based Clustering :new_moon:
 
 
 DataTalks #6: DataHack Champions
-===========================================
+================================
 
 Our sixth meetup was hosted by Taboola, and featured cool past projects done in DataHack.  
 
@@ -235,3 +235,39 @@ Doron Kukliansky -  Data Driven Video Creation :video_camera:
 **Video:** https://www.youtube.com/watch?v=GwKq3pHkNc0
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_6/DataTalks_6-SimPhony.pdf
+
+
+
+
+DataTalks #7:  Topics in Online Learning
+========================================
+
+Our seventh meetup was hosted by Booking.com, and was focused on online learning.
+
+**Event page:** https://www.meetup.com/DataHack/events/248628019/
+
+
+Michal Moshkovitz, The Hebrew University of Jerusalem - What Cannot Be Learned With Bounded Memory? 💾
+------------------------------------------------------------------------------------------------------
+**Speaker:** Michal Moshkovitz, The Hebrew University of Jerusalem
+
+**Title:** What Cannot Be Learned With Bounded Memory?
+
+**Abstract:** How does computational online learning change when one cannot store all the examples one sees in memory? This question has seen a burst of interest in the past couple of years, leading to the surprising theorem that there exist simple concepts (parities) that require an extraordinary amount of time to learn unless one has quite a lot of memory. In this work we show that in fact most concepts cannot be learned without sufficient memory. This subsumes the aforementioned theorem and implies similar results for other concepts of interest. The new results follow from a general combinatorial framework that we developed to prove lower bounds for space bounded learning.
+
+**About the speaker:** Michal Moshkovitz is a Ph.D. student at The Edmond & Lily Safra Center for Brain Sciences at The Hebrew University of Jerusalem, Israel. She is researching machine learning inspired by neuroscience and aided by tools from theoretical computer science and combinatorics.
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_7/DataTalks7-Michal_Moshkovitz-What_Cannot_Be_Learned_With_Bounded_Memory.pdf
+
+
+Kristian Holsheimer, Booking.com - FTRL Formulations For Online Learning 📱📚
+-----------------------------------------------------------------------------
+**Speaker:** Kristian Holsheimer, Booking.com
+
+**Title:** FTRL Formulations For Online Learning
+
+**Abstract:** What do you do when you want to train a machine learning model on a dataset that doesn't fit in memory? There's been a lot of attention on scalable machine learning solutions that look very promising, but require access to a large data cluster. In this talk I'll present a scalable machine learning solution that works on your own laptop. In particular, I'll explain how to use online learning as a scalable technique for (batch) machine learning, with some specific business applications from Booking.com. I'll also provide some reasoning and intuition as to why this online learning approach works so well in settings for which it wasn't originally intended. Along the way, we'll touch upon an interesting formulation of online learning known as "Follow The Regularized Leader" (FTRL).
+
+**About the speaker:** Kris is a data scientist at Booking.com with experience in applied machine learning for advertising and fraud prevention. Kris' background is in theoretical physics, with a PhD in string theory from the University of Amsterdam.
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_7/DataTalks7-Kristian_Holsheimer-Online_and_out-of-core_learning_with_FTRL.pdf
