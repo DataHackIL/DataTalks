@@ -271,3 +271,41 @@ Kristian Holsheimer, Booking.com - FTRL Formulations For Online Learning 📱�
 **About the speaker:** Kris is a data scientist at Booking.com with experience in applied machine learning for advertising and fraud prevention. Kris' background is in theoretical physics, with a PhD in string theory from the University of Amsterdam.
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_7/DataTalks7-Kristian_Holsheimer-Online_and_out-of-core_learning_with_FTRL.pdf
+
+
+DataTalks #9:  Mastering Catboost and XGBoost in Production 🌳 
+==============================================================
+
+Our ninth meetup was hosted by PerimeterX, and was focused on gradient boosted trees.
+
+**Event page:** https://www.meetup.com/DataHack/events/257155216/
+
+
+Tal Peretz - Mastering The New Generation of Gradient Boosting? 🐱🌳
+---------------------------------------------------------------------
+**Speaker:** Tal Peretz
+
+**Title:** Mastering The New Generation of Gradient Boosting
+
+**Abstract:** Gradient Boosted Decision Trees are the hottest ML models for tabular data. These models have already taken over Kaggle and are now taking over the industry. In this talk, we are going to explore and compare XGBoost, LightGBM & the cool kid on the block - Catboost.
+
+**About the speaker:** Tal Peretz is a Data Scientist, Software Engineer, and a Continuous Learner. You may know him as DataHack 2018 1st prize winner (with his brother). Previously, he founded and lead the Israeli Air Force Data Science team. Nowadays he is leveraging ML to fight fraud at simplex.com. Tal also writes for KDnuggets, Towards Data Science and HackerNoon. You can reach him at talperetz.com
+
+**Slides:** TBA
+
+
+Alex Gorodetsky, PerimeterX -Boosting Trees in Production 🚀🌳 
+---------------------------------------------------------------
+**Speaker:** Alex Gorodetsky, PerimeterX
+
+**Title:** Boosting Trees in Production
+
+**Abstract:** Boosted trees is one of the most useful and common techniques for predictive modeling, and it is used by many of our models.
+
+When developing a new model, we go through many iterations of research and production and thus we had to find a way to effectively propagate changes from the research to the production pipeline. Generally, we can classify these changes into one of two types: feature-engineering changes (i.e. features pre-processing logic) and model topology changes (e.g. tree depth, number of trees, etc.). Our goal was to achieve a simple architecture that would allow us to propagate these changes without the need to write additional production side code.
+
+This presentation will introduce the main solutions and approaches that are in use by the community today, together with their advantages and disadvantages. We will also present the actual solution implemented in our production flow together with some important best-practices learnt the hard way.
+
+**About the speaker:** Alex Gorodetsky is leading the Data Science team at PerimeterX. His responsibilities at PerimeterX include: focusing a team of eager and talented data scientists on solving real-world problems and improving our bot detection solution; and making sure all the dependencies along the data science pipeline are met while moving research results into production. Prior to PerimeterX, Alex held various engineering positions both at Intel and Israel PMO, focusing mainly on communication protocols, software engineering and system architecture.
+
+**Slides:** TBA
