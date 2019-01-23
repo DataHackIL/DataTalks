@@ -273,8 +273,8 @@ Kristian Holsheimer, Booking.com - FTRL Formulations For Online Learning 📱�
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_7/DataTalks7-Kristian_Holsheimer-Online_and_out-of-core_learning_with_FTRL.pdf
 
 
-DataTalks #9:  Mastering Catboost and XGBoost in Production 🌳 
-==============================================================
+DataTalks #9:  Mastering Catboost and XGBoost in Production
+===========================================================
 
 Our ninth meetup was hosted by PerimeterX, and was focused on gradient boosted trees.
 
