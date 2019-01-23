@@ -308,4 +308,4 @@ This presentation will introduce the main solutions and approaches that are in u
 
 **About the speaker:** Alex Gorodetsky is leading the Data Science team at PerimeterX. His responsibilities at PerimeterX include: focusing a team of eager and talented data scientists on solving real-world problems and improving our bot detection solution; and making sure all the dependencies along the data science pipeline are met while moving research results into production. Prior to PerimeterX, Alex held various engineering positions both at Intel and Israel PMO, focusing mainly on communication protocols, software engineering and system architecture.
 
-**Slides:** TBA
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_9/Boosting%20Trees%20in%20Production%20-%20DataTalks%20%239%20Meetup%202019-01-22.pdf
