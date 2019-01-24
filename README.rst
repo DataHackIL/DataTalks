@@ -281,8 +281,8 @@ Our ninth meetup was hosted by PerimeterX, and was focused on gradient boosted t
 **Event page:** https://www.meetup.com/DataHack/events/257155216/
 
 
-Tal Peretz - Mastering The New Generation of Gradient Boosting? 🐱🌳
----------------------------------------------------------------------
+Tal Peretz - Mastering The New Generation of Gradient Boosting 🐱🌳
+------------------------------------------------------------------
 **Speaker:** Tal Peretz
 
 **Title:** Mastering The New Generation of Gradient Boosting
@@ -293,9 +293,11 @@ Tal Peretz - Mastering The New Generation of Gradient Boosting? 🐱🌳
 
 **Slides:** TBA
 
+**More details:** https://talperetz.github.io/Tal-Peretz/mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.html
+
 
 Alex Gorodetsky, PerimeterX -Boosting Trees in Production 🚀🌳 
----------------------------------------------------------------
+-------------------------------------------------------------
 **Speaker:** Alex Gorodetsky, PerimeterX
 
 **Title:** Boosting Trees in Production
