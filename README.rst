@@ -273,6 +273,45 @@ Kristian Holsheimer, Booking.com - FTRL Formulations For Online Learning 📱�
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_7/DataTalks7-Kristian_Holsheimer-Online_and_out-of-core_learning_with_FTRL.pdf
 
 
+DataTalks #8: Topics in statistics - Bayesian inference and independence tests
+==============================================================================
+
+Our eigth meetup was hosted by Taboola, and was focused on topics in statistics.
+
+**Event page:** https://www.meetup.com/DataHack/events/256061145/
+
+
+Eric Novik, Generable - High Dimensional Bayesian Inference with Stan 🔬
+-----------------------------------------------------------------------
+**Speaker:** Eric Novik, Generable
+
+**Title:** High Dimensional Bayesian Inference with Stan
+
+**Abstract:** Big data is everywhere but it takes more than running one million logistic
+regressions in parallel to make sense of it. As the size of datasets increase, we can start modeling the underlying phenomena with higher and higher precision.
+As the model complexity expands, our task of fully characterizing the uncertainty of all the unknowns becomes exponentially difficult. This problem eluded statistical computing until recently when we learned how to efficiently sample from high-dimensional distributions.
+In this talk, I will describe the problem posed by Bayesian learning, how it compares to traditional ML (ML: Machine Learning or Maximum Likelihood), and show how we use these methods to solve difficult problems clinical research.
+
+**About the speaker:** Eric Novik is an applied statistician and CEO of Generable. At Generable, Eric is responsible for the strategic direction, probabilistic modeling, and scope and requirements of the company's clinical research platform. Prior to Generable, Eric was a senior data scientist at TIBCO Spotfire where he built statistical applications for customers in Pharma and Finance sectors. In 2010, Eric started Risktail, an analytics software company. He has an MA in Statistics from Columbia University.
+
+
+**Slides:** TBA
+
+
+Or Zuk, HUJI - Testing Independence with Biased Sampling 💪👨👨👨 
+---------------------------------------------------------------
+**Speaker:** Or Zuk, The Hebrew University of Jerusalem
+
+**Title:** Testing Independence with Biased Sampling
+
+**Abstract:** Testing for association, or dependency, between pairs of random variables is a fundamental problem in statistics, and such tests are performed for many pairs of variables in large scale modern datasets. In some applications, one needs to test independence of two random variables X and Y, given observations with known biased sampling.
+The biased sampling is formulated using a non-negative weighing function w(x,y), such that we observe samples from a density proportional to f_XY(x,y) * w(x,y), and if not dealt with properly, may confound our tests for dependency in the (unbiased) density f_XY. This problem generalizes a well known truncation model obtained by taking w(x,y)=I(x(i) an asymptotic bootstrap-based approach and (ii) an exact permutation-test with non-uniform sampling of permutations using MCMC. We show that our test is consistent for important special cases of the problem, and achieves improved power compared to competing methods.
+
+**About the speaker:** Or Zuk is a faculty member at the department of statistics at the Hebrew University. He was a visited professor at the Toyota technical institute in Chicago, did a post doc at Broad institute and received his Ph.D. in Computer Science and Applied Mathematics from the Weizmann Institute. His research focuses on statistical and algorithmic problems arising from genomics applications.
+
+**Slides:** TBA
+
+
 DataTalks #9:  Mastering Catboost and XGBoost in Production
 ===========================================================
 
