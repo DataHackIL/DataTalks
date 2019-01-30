@@ -335,7 +335,7 @@ Tal Peretz - Mastering The New Generation of Gradient Boosting 🐱🌳
 **More details:** https://talperetz.github.io/Tal-Peretz/mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.html
 
 
-Barak Amar, PerimeterX -Boosting Trees in Production 🚀🌳 
+Barak Amar, PerimeterX - Boosting Trees in Production 🚀🌳 
 -------------------------------------------------------------
 **Speaker:** Barak Amar, PerimeterX
 
