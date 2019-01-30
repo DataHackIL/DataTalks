@@ -335,9 +335,9 @@ Tal Peretz - Mastering The New Generation of Gradient Boosting 🐱🌳
 **More details:** https://talperetz.github.io/Tal-Peretz/mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.html
 
 
-Alex Gorodetsky, PerimeterX -Boosting Trees in Production 🚀🌳 
+Barak Amar, PerimeterX -Boosting Trees in Production 🚀🌳 
 -------------------------------------------------------------
-**Speaker:** Alex Gorodetsky, PerimeterX
+**Speaker:** Barak Amar, PerimeterX
 
 **Title:** Boosting Trees in Production
 
@@ -347,6 +347,6 @@ When developing a new model, we go through many iterations of research and produ
 
 This presentation will introduce the main solutions and approaches that are in use by the community today, together with their advantages and disadvantages. We will also present the actual solution implemented in our production flow together with some important best-practices learnt the hard way.
 
-**About the speaker:** Alex Gorodetsky is leading the Data Science team at PerimeterX. His responsibilities at PerimeterX include: focusing a team of eager and talented data scientists on solving real-world problems and improving our bot detection solution; and making sure all the dependencies along the data science pipeline are met while moving research results into production. Prior to PerimeterX, Alex held various engineering positions both at Intel and Israel PMO, focusing mainly on communication protocols, software engineering and system architecture.
+**About the speaker:** Barak Amar is a software architect at PerimeterX.
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_9/Boosting%20Trees%20in%20Production%20-%20DataTalks%20%239%20Meetup%202019-01-22.pdf
