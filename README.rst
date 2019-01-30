@@ -330,6 +330,8 @@ Tal Peretz - Mastering The New Generation of Gradient Boosting 🐱🌳
 
 **About the speaker:** Tal Peretz is a Data Scientist, Software Engineer, and a Continuous Learner. You may know him as DataHack 2018 1st prize winner (with his brother). Previously, he founded and lead the Israeli Air Force Data Science team. Nowadays he is leveraging ML to fight fraud at simplex.com. Tal also writes for KDnuggets, Towards Data Science and HackerNoon. You can reach him at talperetz.com
 
+**Video:** https://www.youtube.com/watch?v=V6nMkUiBdTI&t=0s&index=7&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu
+
 **Slides:** TBA
 
 **More details:** https://talperetz.github.io/Tal-Peretz/mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.html
@@ -348,5 +350,7 @@ When developing a new model, we go through many iterations of research and produ
 This presentation will introduce the main solutions and approaches that are in use by the community today, together with their advantages and disadvantages. We will also present the actual solution implemented in our production flow together with some important best-practices learnt the hard way.
 
 **About the speaker:** Barak Amar is a software architect at PerimeterX.
+
+**Video:** https://www.youtube.com/watch?v=AVhcVraKXis&index=7&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_9/Boosting%20Trees%20in%20Production%20-%20DataTalks%20%239%20Meetup%202019-01-22.pdf
