@@ -354,3 +354,46 @@ This presentation will introduce the main solutions and approaches that are in u
 **Video:** https://www.youtube.com/watch?v=AVhcVraKXis&index=7&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_9/Boosting%20Trees%20in%20Production%20-%20DataTalks%20%239%20Meetup%202019-01-22.pdf
+
+
+
+DataTalks #10: Topics in Adversarial Learning
+=============================================
+
+Our tenth meetup was hosted by Oracle Data Cloud, and was focused on adversarial learning.
+
+**Event page:** https://www.meetup.com/DataHack/events/258554649/
+
+
+Gal Yona - An Introduction to Adversarial Examples 🔫📌
+--------------------------------------------------------
+**Speaker:** Gal Yona
+
+**Title:** An Introduction to Adversarial Examples
+
+**Abstract:** It has recently been established that neural networks are extremely vulnerable to adversarial attacks. These are adversarially chosen inputs, which - despite being almost indistinguishable from natural data (to a human observer) - can easily fool the network into wrong (even silly) predictions. What could explain the vulnerability of DL to such attacks? And most importantly, can networks be trained to withstand them?
+
+In this talk, I will give a general, high-level introduction to this exciting field of research. We will emphasize the fact that the current solutions are in fact a particular instantiation of Adversarial Learning, a general formulation that can be incredibly useful even without the threat of real-life adversaries.
+
+**About the speaker:** Gal Yona is a Ph.D. student at the Weizmann Institute of Science. Her research is focused on the concerns and implications involved with deploying algorithmic (particularly, machine learning) tools in high-stakes environments. In particular, she works on addressing issues of fairness and non-discrimination, interpretability and robustness from a computational perspective.
+
+**Video:** https://www.youtube.com/watch?v=Z9D87D_zkOA&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu&index=11&t=10s
+
+**Slides:** TBA
+
+
+Yossi Adi - Beyond Classification: Extending and Leveraging Adversarial Examples 🤸🏽‍♀️🏋 
+--------------------------------------------------------------------------------------
+**Speaker:** Yossi Adi
+
+**Title:** Beyond Classification: Extending and Leveraging Adversarial Examples
+
+**Abstract:** In this talk, I'll focus on three main topics: (i) generating adversarial examples for structured tasks; (ii) defenses against adversarial examples and the detection of such; (iii) the use of adversarial examples for our own good.
+First, I'll describe Houdini, a novel flexible approach for generating adversarial examples specifically tailored for the final measure of performance of the task, considered be it combinatorial and non-decomposable. I'll demonstrate how Houdini can be applied to a range of applications such as speech recognition, speaker verification, pose estimation and semantic segmentation. Next, in the context of defenses against adversarial examples, I'll present several approaches for defending against adversarial examples and detecting adversarial attacks by investigating the network's behavior only. Lastly, I'll suggest few ideas on how can one use this weakness of neural networks for his own benefit.
+
+**About the speaker:** Yossi Adi is a Ph.D. candidate at Bar-Ilan University, in the Machine Learning for Speech and Language Processing Laboratory under the supervision of Prof. Joseph Keshet. He received an M.Sc. degree from Bar-Ilan University in 2015. His research spans both core machine learning methods and their security aspects, concentrating on speech recognition, speech and audio processing, and sequential tasks. Mr. Adi is also the drummer and founder of Lucille Crew - an international groove collective, fusing elements of Hip-Hop, Funk & Soul.
+
+**Video:** https://youtu.be/42Zt58IqjuY
+
+**Slides:** TBA
+
