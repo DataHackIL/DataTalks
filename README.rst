@@ -379,7 +379,7 @@ In this talk, I will give a general, high-level introduction to this exciting fi
 
 **Video:** https://www.youtube.com/watch?v=Z9D87D_zkOA&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu&index=11&t=10s
 
-**Slides:** TBA
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_10/DataTalks%2010%20-%20Gal%20Yona%20-%20A%20Brief%20Introduction%20to%20Adversarial%20Examples.pdf
 
 
 Yossi Adi - Beyond Classification: Extending and Leveraging Adversarial Examples 🤸🏽‍♀️🏋 
@@ -395,5 +395,5 @@ First, I'll describe Houdini, a novel flexible approach for generating adversari
 
 **Video:** https://youtu.be/42Zt58IqjuY
 
-**Slides:** TBA
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_10/DataTalks%2010%20-%20Yossi%20Adi%20-%20Beyond%20Classification-%20Extending%20and%20%20Leveraging%20Adversarial%20Examples.pdf
 
