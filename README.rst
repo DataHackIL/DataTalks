@@ -397,3 +397,52 @@ First, I'll describe Houdini, a novel flexible approach for generating adversari
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_10/DataTalks%2010%20-%20Yossi%20Adi%20-%20Beyond%20Classification-%20Extending%20and%20%20Leveraging%20Adversarial%20Examples.pdf
 
+
+
+DataTalks #11: App Store Optimization and Life-Time Value Prediction
+====================================================================
+
+Our eleventh meetup was hosted by Playstudios Israel and StoreMaven, and explored how two companies are using data science to perform App Store optimization and Life-Time Value prediction.
+
+**Event page:** https://www.meetup.com/DataHack/events/262090862/
+
+
+Michael Kozak - Boosting UA Performances with User LTV Predictive Models 💉📱
+-----------------------------------------------------------------------------
+**Speaker:** Michael Kozak
+
+**Title:** Boosting UA Performances with User LTV Predictive Models
+
+**Abstract:** Predicting users' Life-Time Value (LTV) is a highly required demand across the marketing domain. An accurate model yields better optimization by smartly allocating budget between ad network, shortening the recoup period and reducing risk in investment. A challenge in this context is that marketing managers need to know where the winds blow very early in the business unit's lifetime to make decisions. Gaming companies encounter yet another challenge as social games traditionally have low paying rate, which makes the data-set imbalanced.
+How can we predict our users' behavior, based solely on their first few days in the app?
+
+In this talk, I will go through the benefits on building your LTV model on the user level, what components this LTV model has, how to test your model performance, and finally, how you can exploit the LTV model into other domains in your business.
+
+**About the speaker:** Michael Kozak holds a Bachelor's degree in Industrial Engineering and a Master's degree in Statistics. He focuses his entire work in the Playstudios' UA team, creating predictive models to assist the day-to-day UA activity.
+
+**Video:** TBA
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_11/Michael%20Kozak%2C%20Playstudios%20-%20Boosting%20UA%20Performance%20with%20User%20LTV%20Predictive%20Models.pdf
+
+
+Roy Berkowitz - Multi-Armed Bandit for App Store Optimization 🖐🖖👋🔫💰🛍
+---------------------------------------------------------------------------
+**Speaker:** Roy Berkowitz
+
+**Title:** Multi-Armed Bandit for App Store Optimization
+
+**Abstract:** The transition from web to mobile has mobile app developers faced with numerous challenges in creating sustainable growth. While on the web all traffic goes through the website, where tools such as Google Analytics for intelligence and A/B testing through Optimize, provide many insights, these simply don’t exist for mobile.
+
+With the App Store acting as a gateway, where 100% of users have to pass through to download an app, your App Store presence is becoming essentially your new “homepage”, hugely impacting your business success. Understanding a user’s behavior is what will enable marketers and UA teams to crack the marketing challenge that comes with the App Store environment. The key to unlocking this challenge lies in implementing a solution that creates usable data insights that can then be implemented.
+
+That is the challenge that StoreMaven tackled. By inventing a solution that enables the market to analyze and test their app store, StoreMaven is transforming the way top app developers like Facebook, Zynga, Uber, and Warner Brothers optimize their app’s marketing performance and answering the question: How do we test our app store to gain insights that lead us to concrete, easily implemented results.
+In this talk, I am going to present how StoreMaven’s proprietary algorithm StoreIQ works to find the best variation in multi variable testing on the App Store. The algorithm, based on “Multi-Armed-Bandit” concepts, continuously evolves using billions of App Store engagement observations to ensure accuracy.
+
+**About the speaker:** As the Director of Data at StoreMaven, Roy focuses on leveraging data to enable informed decision making and is passionate about hacking data problems to optimize the mobile growth world.
+
+**Video:** TBA
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_11/StoreIQ%20-%20The%20Multi-Armed%20Bandit%20for%20App%20Store%20Optimization%20by%20StoreMaven.pdf
+
+
+
