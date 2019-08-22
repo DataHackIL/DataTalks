@@ -446,3 +446,48 @@ In this talk, I am going to present how StoreMaven’s proprietary algorithm Sto
 
 
 
+DataTalks #12: Test Driven Data Science and The Power of Weak Supervision
+=========================================================================
+
+Our 12th meetup was hosted by Check Point and explored how spending more time with your data can drive the creation of better models -- even with no supervised signal at all!
+
+**Event page:** https://www.meetup.com/DataHack/events/263386803/
+
+
+Gershon Celniker - "Know Your Data!" Test Driven Data Science
+-----------------------------------------------------------------------------
+**Speaker:** Gershon Celniker
+
+**Title:** "Know Your Data!" Test Driven Data Science
+
+**Abstract:** Knowing Your Data is a crucial factor for Machine learning. We all familiar with the term Garbage in, Garbage out (or GIGO for short) originated in the statistics and data science fields to illustrate the fact that
+the quality of the output received from a ML model depends greatly on the quality of the information that was input. If your data is not valid or accurate, your results are worthless. “Garbage data” can be data that is
+simply filled with errors, outliers, missing values and artifacts but it can also be data that doesn't have any applicability.
+
+The solution is to take out your data trash! by spending less time on “fit/predict” but spending more time on crunching and validating the input data to ensure that the right sort of data goes into the model. In this talk I will tackle this problem of data integrity for Machine learning purposes. I will go over some highly recommended data-driven methodologies and best practices to ensure the quality of the training data for ML modeling. I will present several use-cases from my experience demonstrating the simplest artifacts in data to the more complex and promiscuous ones.
+
+**About the speaker:** Gershon Celniker is a Data Science manager at Check Point, previously a Principal Data Scientist at Verint and Chief Data Scientist at Wiser. He holds a B.Sc from Technion Institute and a MSc from Hebrew University in Bioinformatics. Currently his main areas of research interest lie in the design of ML and NLP algorithms and their applications in Cybersecurity.
+
+**Video:** TBA
+
+**Slides:** TBA
+
+
+Asaf Valadarsky - The Many Benefits of Weak Supervision
+---------------------------------------------------------------------------
+**Speaker:** Asaf Valadarsky
+
+**Title:** The Many Benefits of Weak Supervision
+
+**Abstract:** Today, running ML workloads have a hidden cost which we all know too well - the cost of gaining access to (preferably high quality) tagged data.
+For a given classification task, if we really think about it, most of the time we have a heuristic (or several of those) which usually "hits the mark" most of the time -- doctors have a fairly good sense about tumors, keywords in website usually indicate strongly on its content, and hearing a car suddenly break usually means that there is something wrong on the road. What if we could leverage these heuristics to create tagged data? and even more so, what if we could use these heuristics to actually train classifiers without the need of any tagged data at all?
+
+In this talk I will tell you about a new paradigm called "weak supervision" (or "data programming"), allowing you to transform heuristics, in the form of decision functions (be them noisy or even from external sources), into strong classifiers -- thus accelerating research, enabling rapid prototyping, and allowing to match the performance of state-of-the-art models without the need of any tagged data. Besides classical classification, I will also showcase additional interesting use-cases, from bootstrapping chatbots to the automatic design of data-augmentation pipelines.
+
+**About the speaker:** Asaf is currently the lead data-scientist at otonomo where he spends most of his days extracting meaningful insights from car data. He holds a PhD in CS from the Hebrew University.
+
+**Video:** TBA
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_12/The%20Many%20Benefits%20of%20Weak%20Supervision.pdf
+
+
