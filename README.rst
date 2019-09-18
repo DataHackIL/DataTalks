@@ -491,3 +491,51 @@ In this talk I will tell you about a new paradigm called "weak supervision" (or 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_12/The%20Many%20Benefits%20of%20Weak%20Supervision.pdf
 
 
+
+DataTalks #13: The Beauty and The Hyperparameter Optimization Beast
+=========================================================================
+
+Our 13th meetup was hosted by Wix.com and shared the long journey of discovering an optimal solution for visual beauty evaluation, and gave a sneak peak into a new and innovative package to tune hyperparameters.
+
+**Event page:** https://www.meetup.com/DataHack/events/264038866/
+
+
+Olha Shainoha - Can Machines Learn Beuty?
+-----------------------------------------------------------------------------
+**Speaker:** Olha Shainoha
+
+**Title:** Can Machines Learn Beuty?
+
+**Abstract:** How can we objectify beauty? Asking whether an image is beautiful, or how beautiful it is, will probably revoke different responses from different individuals. “Beauty is in the eye of the beholder”, it’s a subjective thing. So, is it possible to teach a machine to make this decision if we humans fail to agree? My answer is - yes. In this talk, I’ll share our journey of discovering an optimal solution for visual beauty evaluation. The transition from Domain experts to Crowdsourcing, from Likert scale to Pairwise comparison, from Ranking to Binary labels, and introduce the final framework we developed based on the acquired knowledge.
+
+**About the speaker:** TBA
+
+**Video:** TBA
+
+**Slides:** TBA
+
+
+Gilad Rubin - HyPSTER - HyperParameter Optimization on STERoids
+---------------------------------------------------------------------------
+**Speaker:** Gilad Rubin
+
+**Title:** HyPSTER - HyperParameter Optimization on STERoids
+
+**Abstract:** You're a good Data Scientist. You know that you need to work on your data - gathering, exploring, cleaning, processing & validating it. Often times, the best way to evaluate your work is by constructing an ML Pipeline and checking how it performs on various metrics. Since Data Science is in its nature an experimental and iterative process - we need to ask ourselves: How can we choose a proper ML Pipeline efficiently to allow for rapid and continuous improvement on our projects?
+
+What if I told you there was a way to find a simple and accurate ML Pipeline using just a few lines of code with blazing fast performance? Well, dream no more.
+
+Introducing HyPSTER - HyperParameter Optimization on STERoids
+
+HyPSTER is a brand new Python package built on top of Optuna (an awesome Hyperparameter Optimization framework) that helps you find compact and accurate ML Pipelines while staying light and efficient.
+HyPSTER uses state of the art algorithms for sampling hyperparameters (e.g. TPE, CMA-ES) and pruning unpromising trials (e.g. Asynchronous Successive Halving), combined with cross-validated early stopping and adaptive learning rates, all packed up in a simple sklearn API that allows for automatic Preprocessing pipeline selection and supports your favorite ML packages (e.g. XGBoost, LightGBM, CatBoost, SGDClassifier) out of the box. And yes, it supports multi CPU/GPU training.
+
+In this talk, I will try to explain the internals of the package and demonstrate its power and simplicity using real-world datasets.
+
+**About the speaker:** TBA
+
+**Video:** TBA
+
+**Slides:** TBA
+
+
