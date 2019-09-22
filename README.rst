@@ -512,7 +512,7 @@ Olha Shainoha - Can Machines Learn Beuty?
 
 **Video:** TBA
 
-**Slides:** TBA
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_13/Learning_Beauty.pdf
 
 
 Gilad Rubin - HyPSTER - HyperParameter Optimization on STERoids
@@ -532,10 +532,10 @@ HyPSTER uses state of the art algorithms for sampling hyperparameters (e.g. TPE,
 
 In this talk, I will try to explain the internals of the package and demonstrate its power and simplicity using real-world datasets.
 
-**About the speaker:** TBA
+**About the speaker:** Gilad is a data-scientist.
 
 **Video:** TBA
 
-**Slides:** TBA
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_13/HyPSTER.pdf
 
 
