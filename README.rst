@@ -579,6 +579,39 @@ In this talk, I will present the underlying model for the transition of votes be
 
 
 
+DataTalks #15: Deep Learning for AV Domain Adaptation and Transforming 2D to 3D
+===============================================================================
+
+Our 15th meetup was hosted by Innoviz and explored the power of 3D models - be it in autonomous vehicles or how you can generate such models from 2D images!
+
+**Event page:** https://www.meetup.com/DataHack/events/264285462/
+
+
+Peter Naftaliev - Transforming 2D Images to 3D models
+-----------------------------------------------------
+**Speaker:** Peter Naftaliev
+
+**Title:** Transforming 2D Images to 3D models
+
+**Abstract:** Technological advances in artificial intelligence allow to take photos of real life objects and automatically create 3D models out of them. This is going to change the way a 3D designer works, allowing for much more efficiency and time saving.
+
+In this talk I will present a new neural network which takes as input a 2D image and automatically a 3D model, using an encoding-decoding architecture. A ResNet based encoder is trained to encode the image into a z-vector with inherent 3D features and a decoder which is actually a boolean classifier is trained to create a 3D model from the z-vector. The reconstruction can happen in any voxel resolution, without retraining the network. Also we will discuss some of the challenges with 3D modelling and ML, we will present cool implementations of ML in the visualization, texture analysis, 3D modeling and other relevant subjects.
+
+**About the speaker:** BSc statistics and operational research. In his previous startup – LipSight – Lipreading software to transcribe voiceless video. Currently runs a ML consultancy and projects group. Part of his work is around creating technologies for 3D modelling using machine learning.
+
+
+Raja Giryes - Domain Adaptation for Autonomous Vehicles and 3D Data
+-------------------------------------------------------------------
+**Speaker:** Raja Giryes
+
+**Title:** Domain Adaptation for Autonomous Vehicles and 3D Data
+
+**Abstract:** In this talk, we will survey recent developments in domain adaptation and transfer learning for neural networks training. In particular, we will focus on their usage with 3D and autonomous driving data, where less annotated data is available and therefore they are of great importance.
+
+**About the speaker:**  Raja Giryes is a senior lecturer in the school of electrical engineering at Tel Aviv University. His research interests lie at the intersection between signal and image processing and machine learning, and in particular, in deep learning, inverse problems, sparse representations, and signal and image modeling. He serves as a consultant in various high-tech companies including Innoviz technologies.
+
+
+
 DataTalks #29: Distilling BNNs with GANs and StarNet ⚗️🔫⭐️
 =========================================================
 
