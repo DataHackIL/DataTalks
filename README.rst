@@ -501,7 +501,7 @@ Our 13th meetup was hosted by Wix.com and shared the long journey of discovering
 
 
 Olha Shainoha - Can Machines Learn Beuty?
------------------------------------------------------------------------------
+-----------------------------------------
 **Speaker:** Olha Shainoha
 
 **Title:** Can Machines Learn Beuty?
@@ -516,7 +516,7 @@ Olha Shainoha - Can Machines Learn Beuty?
 
 
 Gilad Rubin - HyPSTER - HyperParameter Optimization on STERoids
----------------------------------------------------------------------------
+---------------------------------------------------------------
 **Speaker:** Gilad Rubin
 
 **Title:** HyPSTER - HyperParameter Optimization on STERoids
@@ -537,6 +537,45 @@ In this talk, I will try to explain the internals of the package and demonstrate
 **Video:** TBA
 
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_13/HyPSTER.pdf
+
+
+
+DataTalks #14: Israeli Elections - Polls, Election Data and Analysis
+====================================================================
+
+Our 14th meetup was hosted by Oracle Data Cloud and provided an opportunity to have a glimpse at two fascinating projects which examine past data from Israeli elections!
+
+**Event page:** https://www.meetup.com/DataHack/events/264102560/
+
+
+Yonatan Lazar-Telem (“AutoPoller”) - How I created and analyzed my transparent poll
+-----------------------------------------------------------------------------------
+**Speaker:** Yonatan Lazar-Telem
+
+**Title:** How I created and analyzed my transparent poll
+
+**Abstract:** The results of the “Transparent Poll” and its complete data, which was gathered with the help of crowdfunding, were published in April 2019. This data provides a glimpse into the hidden aspects of the polling industry. In this talk, I will present the findings and the questions that arise with regard to the polls that are published in the mainstream media. You are invited to review the “Transparent Poll” data using this link: http://bit.ly/transpolldata
+
+**About the speaker:** Yonatan Lazar-Telem is a data scientist at Mobileye and holds an M.Sc in Statistics from the Hebrew University. Founder of the "AutoPoller" project, which encourages a critical reading of surveys.
+
+**Video:** https://www.youtube.com/watch?v=v5W0GDIr-EI&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu&index=16&t=15s
+
+**Links:** https://shkifut.info/2019/03/transparentpolls/
+https://www.facebook.com/AutoPoller/
+
+
+Itamar Mushkin - Elections results from 1996 to 2019: estimating transition of votes between parties
+----------------------------------------------------------------------------------------------------
+**Speaker:** Itamar Mushkin
+
+**Title:** Elections results from 1996 to 2019: estimating transition of votes between parties
+
+**Abstract:** We can learn from each parliamentary elections cycle which party gained or lost power (in terms of seats in parliament), but we cannot directly observe transitions between parties. Nevertheless, using the complete voting data gathered in each cycle, we can construct a simple model to answer this and other questions.
+In this talk, I will present the underlying model for the transition of votes between parties, its estimations, and the resulting insights. If time permits, I will present additional results from a data-driven analysis of the election outcomes, such as political clusters that emerge from the data. You are invited to review the elections dataset and kernels using this link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013
+
+**About the speaker:**  Itamar Muskhin is a machine learning developer at Precognize, and formerly an Operations Research Analyst at the IAF. He holds a B.Sc and an M.Sc in Physics from the Hebrew University. Likes wrangling data and talking politics, and finds it very time-saving to do both at the same time.
+
+**Video:** https://www.youtube.com/watch?v=CX466Xamlvk&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu&index=17&t=1s
 
 
 
