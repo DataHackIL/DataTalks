@@ -568,7 +568,7 @@ By construction, our framework not only distills the Bayesian predictive distrib
 
 **Video:** TBA
 
-**Slides:** `Natan Katz - Distilling BNNs with GANs.pptx<https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_29/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB%20%F0%9D%97%9E%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%87%20-%20%F0%9D%97%97%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4%20%F0%9D%97%95%F0%9D%97%A1%F0%9D%97%A1%F0%9D%98%80%20%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5%20%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A1%F0%9D%98%80.pptx?raw=true>`_
+**Slides:** `Natan Katz - Distilling BNNs with GANs.pptx <https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_29/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB%20%F0%9D%97%9E%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%87%20-%20%F0%9D%97%97%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4%20%F0%9D%97%95%F0%9D%97%A1%F0%9D%97%A1%F0%9D%98%80%20%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5%20%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A1%F0%9D%98%80.pptx?raw=true>`_
 
 
 Leonid Karlinsky - Few-Shot Learning for Classification with StarNet
