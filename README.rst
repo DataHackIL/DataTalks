@@ -548,11 +548,11 @@ Our 29th DataTalks meetup was held online and featured talks on distilling BNNs 
 **Event page:** https://www.meetup.com/DataHack/events/271491125/
 
 
-𝗡𝗮𝘁𝗮𝗻 𝗞𝗮𝘁𝘇 - 𝗗𝗶𝘀𝘁𝗶𝗹𝗹𝗶𝗻𝗴 𝗕𝗡𝗡𝘀 𝘄𝗶𝘁𝗵 𝗚𝗔𝗡𝘀
---------------------------------
-**Speaker:** 𝗡𝗮𝘁𝗮𝗻 𝗞𝗮𝘁𝘇, 𝗡𝗜𝗖𝗘
+Natan Katz - Distilling BNNs with GANs
+--------------------------------------
+**Speaker:** Natan Katz, NICE
 
-**Title:** 𝗗𝗶𝘀𝘁𝗶𝗹𝗹𝗶𝗻𝗴 𝗕𝗡𝗡𝘀 𝘄𝗶𝘁𝗵 𝗚𝗔𝗡𝘀
+**Title:** Distilling BNNs with GANs
 
 **Abstract:** In this talk I will go over an interesting ICML 2018 paper that proposes a framework for distilling BNNs using GANs:
 
@@ -568,14 +568,14 @@ By construction, our framework not only distills the Bayesian predictive distrib
 
 **Video:** TBA
 
-**Slides:** 
+**Slides:** `Natan Katz - Distilling BNNs with GANs.pptx<https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_29/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB%20%F0%9D%97%9E%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%87%20-%20%F0%9D%97%97%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4%20%F0%9D%97%95%F0%9D%97%A1%F0%9D%97%A1%F0%9D%98%80%20%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5%20%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A1%F0%9D%98%80.pptx?raw=true>`_
 
 
-𝗟𝗲𝗼𝗻𝗶𝗱 𝗞𝗮𝗿𝗹𝗶𝗻𝘀𝗸𝘆 - 𝗙𝗲𝘄-𝗦𝗵𝗼𝘁 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗼𝗿 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝘁𝗮𝗿𝗡𝗲𝘁
-------------------------------------------------------
-**Speaker:** 𝗟𝗲𝗼𝗻𝗶𝗱 𝗞𝗮𝗿𝗹𝗶𝗻𝘀𝗸𝘆, 𝗜𝗕𝗠
+Leonid Karlinsky - Few-Shot Learning for Classification with StarNet
+--------------------------------------------------------------------
+**Speaker:** Leonid Karlinsky, IBM
 
-**Title:** 𝗙𝗲𝘄-𝗦𝗵𝗼𝘁 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗼𝗿 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝘁𝗮𝗿𝗡𝗲𝘁
+**Title:** Few-Shot Learning for Classification with StarNet
 
 **Abstract:** Few-shot learning for classification has advanced significantly in recent years. Yet, these approaches rarely provide interpretability related to their decisions or localization of objects in the scene. In this paper, we introduce StarNet, featuring an end-to-end differentiable non-parametric star-model classification head. Through this head, the backbone is meta-trained using only image-level labels to produce good features for classifying previously unseen categories of few-shot test tasks using a star-model that geometrically matches between the query and support images. This also results in localization of corresponding object instances (on the query and best matching support images), providing plausible explanations for StarNet’s class predictions.
 
@@ -583,7 +583,7 @@ We evaluate StarNet on multiple few-shot classification benchmarks attaining sig
 
 **Paper link:** https://arxiv.org/abs/2003.06798
 
-**About the speaker:**  Leonid Karlinsky leads the CV & DL research team in the Computer Vision and Augmented Reality (CVAR) group @ IBM Research AI. His recent research is in the areas of few-shot learning with specific focus on object detection, metric learning, and example synthesis methods. He received his PhD degree at the Weizmann Institute of Science, supervised by Prof. Shimon Ullman.
+**About the speaker:** Leonid Karlinsky leads the CV & DL research team in the Computer Vision and Augmented Reality (CVAR) group @ IBM Research AI. His recent research is in the areas of few-shot learning with specific focus on object detection, metric learning, and example synthesis methods. He received his PhD degree at the Weizmann Institute of Science, supervised by Prof. Shimon Ullman.
 
 **Video:** TBA
 
