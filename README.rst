@@ -659,4 +659,4 @@ We evaluate StarNet on multiple few-shot classification benchmarks attaining sig
 
 **Video:** TBA
 
-**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_29/Leonid%20Karlinsky%20-%20Few-Shot%20Learning%20for%20Classification%20with%20StarNet.pptx?raw=true
+**Slides:** `Leonid Karlinsky - Few-Shot Learning for Classification with StarNet.pptx <https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_29/Leonid%20Karlinsky%20-%20Few-Shot%20Learning%20for%20Classification%20with%20StarNet.pptx?raw=true>`_
