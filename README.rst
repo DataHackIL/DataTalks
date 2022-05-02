@@ -663,10 +663,55 @@ We evaluate StarNet on multiple few-shot classification benchmarks attaining sig
 
 
 
+DataTalks #31: Understanding Overfitting in Machine Learning ⛹️‍♀️🤾‍♂️🤽‍♀️🧠
+====================================================================
+
+Our 31st DataTalks meetup was held online and focused on overfitting in machine learning.
+
+**Event page:** https://www.meetup.com/DataHack/events/271665712/
+
+
+Dana Racah & Inbal Budowski-Tal - When Machine Learning Hits Reality 🧱
+-----------------------------------------------------------------------
+
+**Speaker:** 𝗗𝗮𝗻𝗮 𝗥𝗮𝗰𝗮𝗵 𝗮𝗻𝗱 𝗜𝗻𝗯𝗮𝗹 𝗕𝘂𝗱𝗼𝘄𝘀𝗸𝗶-𝗧𝗮𝗹, EverCompliant
+
+**Title:** 𝗪𝗵𝗲𝗻 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝗶𝘁𝘀 𝗥𝗲𝗮𝗹𝗶𝘁𝘆 🧱
+
+**Abstract:** We did everything by the book.
+
+We divided our dataset into train-test-validation. We checked the learning-curve to make sure the model is not overfitted. We gathered another large dataset and tested the model against it, for final validation of the model's performances. And yet, after deploying to production, the model's performances were much lower than what we measured. Why, oh why??? 😱😭
+
+In this talk, we will explain what went wrong, and explain how we test our models now, as a result of this experience.
+
+**About the speakers:** Inbal is the Director of AI at EverCompliant. Dana is a data scientist at EverCompliant.
+
+**Video:** https://www.youtube.com/watch?v=ENqJG0NAj1s
+
+
+Gal Yona - How long does your data live? Test-set re-use in modern ML ♻️
+-----------------------------------------------------------------------
+
+**Speaker:** Gal Yona, Weizmann Institute of Science
+
+**Title:** How long does your data live? Test-set re-use in modern ML ♻️
+
+**Abstract:** In modern ML the community typically continuously evaluates models on the same data-sets, often with the same train-test splits. This creates a feedback loop, as future models now implicitly depend on the test sets. This adaptive setting, in which models are not independent of the test set they are evaluated on, enjoys exponentially worse generalization guarantees than the non-adaptive setting. This raises suspicion regarding the statistical validity of our results, and recent progress in general: Are we still making progress on the underlying tasks, or have we simply “exhausted” our existing datasets? More generally, how long does data “live” in modern ML applications?
+
+In this talk I will discuss two recent clever attempts to answer the above questions, as well as their (somewhat surprising, given the above backdrop) findings. The first approach uses replication studies of common vision benchmarks and the second conducts a meta-analysis of overfitting on Kaggle competitions. We’ll conclude by highlighting practical takeaways this line of work may suggest for increasing the longevity of ML benchmarks in your organizational workflow.
+
+**Paper links:** http://proceedings.mlr.press/v97/recht19a/recht19a.pdf
+http://papers.neurips.cc/paper/9117-a-meta-analysis-of-overfitting-in-machine-learning.pdf
+
+**About the speaker:** Gal is a Computer Science Ph.D student in the Weizmann Institute of Science.
+
+**Video:** https://www.youtube.com/watch?v=ENqJG0NAj1s
+
+
 DataTalks #32: Optimizing Elements of BERT & AutoGAN-Distiller ✔️🧠
 ==================================================================
 
-Our 32nd DataTalks meetup was held online and focused optimizing and distilling neural networks.
+Our 32nd DataTalks meetup was held online and focused on optimizing and distilling neural networks.
 
 **Event page:** https://www.meetup.com/DataHack/events/271942499/
 
