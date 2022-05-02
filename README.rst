@@ -663,6 +663,56 @@ We evaluate StarNet on multiple few-shot classification benchmarks attaining sig
 
 
 
+DataTalks #32: Optimizing Elements of BERT & AutoGAN-Distiller ✔️🧠
+==================================================================
+
+Our 32nd DataTalks meetup was held online and focused optimizing and distilling neural networks.
+
+**Event page:** https://www.meetup.com/DataHack/events/271942499/
+
+
+Zohar Karnin - schuBERT: Optimizing Elements of BERT
+----------------------------------------------------
+
+**Speaker:** Zohar Karnin, Principal Applied Scientist at AWS
+
+**Title:** schuBERT: Optimizing Elements of BERT
+
+**Abstract:** Transformers have gradually become a key component for many state-of-the-art natural language representation models. The recent transformer based model BERT, achieved state-of-the-art results on various natural language processing tasks, including GLUE, SQuAD v1.1, and SQuAD v2.0. This model however is computationally prohibitive and has a huge number of parameters.
+
+In this work we revisit the architecture choices of BERT in efforts to obtain a lighter model. We focus on reducing the number of parameters yet our methods can be applied towards other objectives such FLOPs or latency.
+
+We show that much efficient light models can be obtained by reducing algorithmically chosen correct architecture design dimensions rather than the common choice reducing the number of Transformer encoder layers. In particular, our methods uncovers the usefulness of a non-standard design choice for multi-head attention layers making them much more efficient. By applying our findings, our schuBERT gives 6.6% higher average accuracy on GLUE and SQuAD datasets as compared to BERT with three encoder layers while having the same number of parameters.
+
+**𝗣𝗮𝗽𝗲𝗿 𝗹𝗶𝗻𝗸:** https://www.aclweb.org/anthology/2020.acl-main.250.pdf
+
+**About the speaker:** Zohar Karnin received his Ph.D in computer science from the Technion, Israel Institute of Technology at 2011. His research interests are in the area of large scale and online machine learning algorithms. He is currently a Principal Scientist in Amazon AWS AI leading the science for multiple efforts in SageMaker, an environment for machine learning development.
+
+**Video:** https://www.youtube.com/watch?v=qtR9F4zWVMY
+
+𝗬𝗼𝗮𝘃 𝗥𝗮𝗺𝗼𝗻 - 𝗚𝗔𝗡 𝗗𝗶𝘀𝘁𝗶𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗔𝘂𝘁𝗼𝗚𝗔𝗡-𝗗𝗶𝘀𝘁𝗶𝗹𝗹𝗲𝗿
+-------------------------------------------
+
+**Speaker:** 𝗬𝗼𝗮𝘃 𝗥𝗮𝗺𝗼𝗻, 𝗠𝗟 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 𝗛𝗶 𝗔𝘂𝘁𝗼
+
+**Title:** 𝗚𝗔𝗡 𝗗𝗶𝘀𝘁𝗶𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗔𝘂𝘁𝗼𝗚𝗔𝗡-𝗗𝗶𝘀𝘁𝗶𝗹𝗹𝗲𝗿
+
+**Abstract:** GANS can get extremely big and get up to 1200 GFLOPS (One billion floating-point operations). For reference, MobileNET contains 0.5 GFLOPS.
+
+This is why in many cases we want to lower the number of parameters of our GANs in order to save costs when running on cloud or being able to run those networks on edge devices. The problem is that classical methods, like pruning or model-distillation, that work well with other networks don't work well with GANs. AutoGAN-Distiller (Yonggan Fu et al.) is the first time that a practical way to lower the number of parameters this GAN, and is doing that with constrained Auto-ML techniques.
+
+In my lecure I will talk about this research and also tell about a project I did that involved distilling Mel-GAN, a vocoder that is being used for real-time Text-To-Speech generation.
+
+**𝗣𝗮𝗽𝗲𝗿 𝗹𝗶𝗻𝗸:** https://arxiv.org/pdf/2006.08198v1.pdf
+
+**𝗥𝗲𝗽𝗼:* https://github.com/TAMU-VITA/AGD
+
+**About the speaker:** Yoav Ramon is an ML Engineer and first worker at Hi Auto, A newly founded startup.
+
+**Video:** https://www.youtube.com/watch?v=qtR9F4zWVMY
+
+
+
 DataTalks #33: Computer vision & NLP in healthcare✔️🧠
 =====================================================
 
