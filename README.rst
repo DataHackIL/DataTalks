@@ -758,8 +758,8 @@ In my lecure I will talk about this research and also tell about a project I did
 
 
 
-DataTalks #33: Computer vision & NLP in healthcare✔️🧠
-=====================================================
+DataTalks #33: Computer vision & NLP in healthcare 👁️🏥
+======================================================
 
 Our 33rd DataTalks meetup was held online and focused on new and emerging applications of text analytics and computer vision in healthcare.
 
