@@ -660,3 +660,42 @@ We evaluate StarNet on multiple few-shot classification benchmarks attaining sig
 **Video:** TBA
 
 **Slides:** `Leonid Karlinsky - Few-Shot Learning for Classification with StarNet.pptx <https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_29/Leonid%20Karlinsky%20-%20Few-Shot%20Learning%20for%20Classification%20with%20StarNet.pptx?raw=true>`_
+
+
+
+DataTalks #33: Computer vision & NLP in healthcare✔️🧠
+=====================================================
+
+Our 33rd DataTalks meetup was held online and focused on new and emerging applications of text analytics and computer vision in healthcare.
+
+**Event page:** https://www.meetup.com/DataHack/events/jmmncsybcqblc/
+
+
+Moran Beladev - NLP aspects in medical records
+----------------------------------------------
+
+**Speaker:** Moran Beladev, Diagnostic Robotics
+
+**Title:** NLP aspects in medical records: From visit texts to medical concept matrix
+
+**Abstract:** In this talk, we present our ongoing work utilizing more than 60 billion historical medical visits to create an automated layer for digital healthcare. We will discuss the NLP challenges working with medical summaries in Hebrew. We will present our Auto tagging ML model for automated entities extraction from medical summaries. Our pipeline includes novelty deep models architectures built from scratch for sentence splitting, negation detection, entities relations and terms expansions. We will share from our insights discovered from applying those systems in practice.
+
+**About the speaker:** Moran Beladev is a senior machine learning researcher at Diagnostic Robotics. Leading cutting edge NLP projects. PhD student in information systems engineering at Ben Gurion university.
+
+**Video:** https://www.youtube.com/watch?v=e3mfd6yoa6I
+
+
+Sivan Biham - Wound documentation and measurement using a single smartphone camera
+----------------------------------------------------------------------------------
+
+**Speaker:** Sivan Biham, Healthy.io
+
+**Title:** Wound documentation and measurement using a single smartphone camera
+
+**Abstract:** Traditional wound management relies on subjective visual assessment. It lacks standardization and comprehensive documentation, making evidence-based care decisions difficult.
+
+In this talk Sivan will describe how Healthy.io uses a single smartphone camera as a tool for standardizing wound measurements in a clinical setting using computer vision algorithms.
+
+**About the speaker:** Sivan Biham is a Computer Vision and Machine Learning Algorithm Developer at Healthy.io. She holds a B.Sc in Computer Science and Neuroscience and a M.Sc in Computer Science from the Weizmann Institute of Science.
+
+**Video:** https://www.youtube.com/watch?v=e3mfd6yoa6I
