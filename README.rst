@@ -663,6 +663,51 @@ We evaluate StarNet on multiple few-shot classification benchmarks attaining sig
 
 
 
+DataTalks #30: Model Distillation 🧠⚗️
+=====================================
+
+Our 30th DataTalks meetup was held online in cooperation with Windward, and was focused on model distillation.
+
+**Event page:** https://www.meetup.com/DataHack/events/271479686/
+
+
+Shani Gamrian - Model Distillation for Object Detection
+-------------------------------------------------------
+
+**Speaker:** Shani Gamrian, Brodman17
+
+**Title:** Model Distillation for Object Detection
+
+**Abstract:** WObject Detection networks are commonly used on many applications and products nowadays and are capable of achieving very high performances in different real-life scenarios. However, when implementing these networks on limited resources, real-time solutions are required.
+
+Model Distillation refers to the idea of model compression by teaching a smaller network, how to behave using a bigger, pre-trained network. There are two types of knowledge representations that can be transferred from teacher to student. The first is knowledge from direct outputs (also known as Knowledge Distillation) and the second is knowledge transferred from intermediate layers. In this talk, we will discuss the ideas and approaches of both types and the differences between them. We will also cover recent distillation works and solutions designed specifically for object detection networks such as SSD and FPN that show significant improvement of the results.
+
+**Paper link:** https://arxiv.org/abs/1906.03609
+
+**About the speakers:** Shani is an Applied Machine Learning and Computer Vision researcher at Brodmann17.
+
+**Video:** https://www.youtube.com/watch?v=V9m9TMfWyyw
+
+
+Gilad Landau - Distilling Maritime Insights with Deep Learning
+--------------------------------------------------------------
+
+**Speaker:** Gilad Landau, Windward
+
+**Title:** Distilling Maritime Insights with Deep Learning
+
+**Abstract:** I will present Windward's process of developing and deploying a deep learning pipeline in the maritime domain. The lecture will focus on the real-world challenges of training a deep learning model with a small amount of labeled data by utilizing distillation and active learning techniques.
+
+**Paper links:** https://arxiv.org/abs/1503.02531
+https://arxiv.org/abs/1711.00941
+https://arxiv.org/abs/1609.03499
+
+**About the speaker:** Gilad is a Technologist and a Senior Data Scientist Windward. He is enthusiastic about creating real business value with Deep Learning.
+
+**Video:** https://www.youtube.com/watch?v=V9m9TMfWyyw
+
+
+
 DataTalks #31: Understanding Overfitting in Machine Learning ⛹️‍♀️🤾‍♂️🤽‍♀️🧠
 ====================================================================
 
