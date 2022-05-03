@@ -612,6 +612,34 @@ Raja Giryes - Domain Adaptation for Autonomous Vehicles and 3D Data
 
 
 
+DataTalks #28: DataTalks #28: Cross-Domain Few-Shot Classification ✝️🔫
+======================================================================
+
+Our 27th DataTalks meetup was held online and hosted U.C. Merced Ph.D. student Hung-Yu Tseng, who presented his ICLR 2020 Spotlight paper on Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation
+
+**Event page:** https://www.meetup.com/DataHack/events/271327325/
+
+
+Hung-Yu Tseng, U.C. Merced - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation
+---------------------------------------------------------------------------------------------------------
+**Speaker:** Hung-Yu Tseng, U.C. Merced
+
+**Title:** Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation
+
+**Abstract:** Few-shot classification aims to recognise novel categories with only few labeled images in each class. Existing metric-based few-shot classification algorithms predict categories by comparing the feature embeddings of query images with those from a few labeled images (support examples) using a learned metric function. While promising performance has been demonstrated, these methods often fail to generalize to unseen domains due to large discrepancy of the feature distribution across domains. In this work, we address the problem of few-shot classification under domain shifts for metric-based methods.
+
+Our core idea is to use feature-wise transformation layers for augmenting the image features using affine transforms to simulate various feature distributions under different domains in the training stage. To capture variations of the feature distributions under different domains, we further apply a learning-to-learn approach to search for the hyper-parameters of the feature-wise transformation layers. We conduct extensive experiments and ablation studies under the domain generalization setting using five few-shot classification datasets: mini-ImageNet, CUB, Cars, Places, and Plantae.
+
+Experimental results demonstrate that the proposed feature-wise transformation layer is applicable to various metric-based models, and provides consistent improvements on the few-shot classification performance under domain shift.
+
+**Paper link:** https://arxiv.org/abs/2001.08735
+
+**About the speaker:** Hung-Yu Tseng is a 3-rd year Ph.D. student in the Vision and Learning Lab at U.C. Merced, advised by Prof. Ming-Hsuan Yang.
+
+**Video:** https://www.youtube.com/watch?v=2-ZY4rAw6gg&t=3s
+
+
+
 DataTalks #29: Distilling BNNs with GANs and StarNet ⚗️🔫⭐️
 =========================================================
 
