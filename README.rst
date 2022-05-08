@@ -612,6 +612,48 @@ Raja Giryes - Domain Adaptation for Autonomous Vehicles and 3D Data
 
 
 
+DataTalks #20: Data Science Work Flow - Challenges and Best Practices
+=====================================================================
+
+Our 20th meetup was hosted by Amazon AWS and explored best practices in data science!
+
+**Event page:** https://www.meetup.com/DataHack/events/267907543/
+
+
+Nir Dagani - How Do We Do Massively Parallel Feature Extraction in WSC Sports Using Amazon SageMaker Batch Transform
+--------------------------------------------------------------------------------------------------------------------
+
+**Speaker:** Nir Dagani, WSC Sports
+
+**Title:** How Do We Do Massively Parallel Feature Extraction in WSC Sports Using Amazon SageMaker Batch Transform
+
+**Abstract:** WSC Sports’ AI driven platform analyzes live sports broadcasts, identifies each and every event that occurs in the game, creates customized short-form video content and publishes to any digital platform.
+We’ll review WSC research team challenges and workflow. We’ll dive deep into the system we’ve recently built for running massively parallel feature extraction over 10’s of thousands of video clips using DNN. How it reduced feature extraction time from a week to The solutions is based on Amazon SageMaker Batch Transform and docker containers.
+
+
+Guy Smoilovsky - Mental Models for the Data Science Workflow
+------------------------------------------------------------
+
+**Speaker:** Guy Smoilovsky, DAGsHub
+
+**Title:** Mental Models for the Data Science Workflow
+
+**Abstract:** The "correct" data science workflow is a work in progress. There are many technical problems, not all of which have good tools yet.
+To make things more complicated, the number of services and tools is exploding rapidly, and extracting a coherent picture is difficult. It's a jungle out there.
+
+At DAGsHub, we've interviewed data scientists, team leads, data engineers, and CTOs from over 100 companies in Israel and abroad, trying to get to the bottom of the workflow problems and the solutions people come up with. In this talk, we'd like to share:
+
+* The common patterns we found
+* More unique patterns, and how these divergences are closely linked to the type of problem you're trying to solve
+* How data science is different from software development
+* An overview of the popular tools for various parts of the workflow
+* Useful techniques and ideas
+* Effective collaboration with experiment tracking, reproducibility
+* A case for better open source data science
+* Memes, dog GIFs, etc.
+
+
+
 DataTalks #28: DataTalks #28: Cross-Domain Few-Shot Classification ✝️🔫
 ======================================================================
 
