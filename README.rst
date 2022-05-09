@@ -652,6 +652,8 @@ At DAGsHub, we've interviewed data scientists, team leads, data engineers, and C
 * A case for better open source data science
 * Memes, dog GIFs, etc.
 
+**Video:** https://www.youtube.com/watch?v=Nf8DvXacI1k (not from out meetup, but the same talk)
+
 
 
 DataTalks #28: DataTalks #28: Cross-Domain Few-Shot Classification ✝️🔫
