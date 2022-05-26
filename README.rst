@@ -6,9 +6,9 @@ This is a list of past talks in the  `DataTalks <https://www.meetup.com/DataHack
 
 DataTalks homepage: https://www.meetup.com/DataHack/
 
-The `DataTalks <https://www.meetup.com/DataHack>`_ meetup series is hosted by different companies, with each meetup usually featuring two speakers, where at least one of the speakers - and sometimes both - is not an employee of the hosting company. Talks touch on a variety of subjects in machine learning, statistics, data engineering and other data science related topics. 
+The `DataTalks <https://www.meetup.com/DataHack>`_ meetup series is hosted by different companies, with each meetup usually featuring two speakers, where at least one of the speakers - and sometimes both - is not an employee of the hosting company. Talks touch on a variety of subjects in machine learning, statistics, data engineering and other data science related topics.
 
-You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <https://mailchi.mp/2c67d69eb667/datahack-newsletter>`_. 
+You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <https://mailchi.mp/2c67d69eb667/datahack-newsletter>`_.
 
 |
 
@@ -18,7 +18,7 @@ You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twi
 
 |
 
-DataTalks #1: Web traffic estimation and big ML workflows 
+DataTalks #1: Web traffic estimation and big ML workflows
 =========================================================
 **Event page:** https://www.meetup.com/DataHack/events/231012715/
 
@@ -28,8 +28,8 @@ Roy Yadoo, SimilarWeb - Web traffic estimation as a meta-analysis challenge :ver
 
 **Title:** Web traffic estimation as a meta-analysis challenge
 
-**Abstract:** Every day, users around the world make over 10 billion visits to websites on their personal computers and mobile devices. Understanding the underlying patterns and behaviors is a central challenge in web research. At SimilarWeb, our goal is to measure and analyze the traffic of each website and mobile app in the digital world, with over 60 million sites and apps estimated daily. Our estimations rely on a variety of data sources, including our panel with millions of web users. Data sources in our panel can vary by size, bias and engagement. The challenge is to find a common truth among the noise, while considering additional business requirements, such as the competing objectives of accuracy vs. consistency. 
-In this talks, I will present several approaches used at SimilarWeb for estimation, such as robust regressions, Bayesian estimators, outlier detection and others. 
+**Abstract:** Every day, users around the world make over 10 billion visits to websites on their personal computers and mobile devices. Understanding the underlying patterns and behaviors is a central challenge in web research. At SimilarWeb, our goal is to measure and analyze the traffic of each website and mobile app in the digital world, with over 60 million sites and apps estimated daily. Our estimations rely on a variety of data sources, including our panel with millions of web users. Data sources in our panel can vary by size, bias and engagement. The challenge is to find a common truth among the noise, while considering additional business requirements, such as the competing objectives of accuracy vs. consistency.
+In this talks, I will present several approaches used at SimilarWeb for estimation, such as robust regressions, Bayesian estimators, outlier detection and others.
 
 
 
@@ -41,15 +41,15 @@ Daniel Marcous, Google - Production-Ready BIG ML Workflows: From zero to hero :t
 
 **Abstract:** Data science isn't an easy task to pull of. You start with exploring data and experimenting with models. Finally, you find some amazing insight!
 
-What now? How do you transform a little experiment to a production ready workflow? Better yet, how do you scale it from a small sample in R/Python to TBs of production data? 
+What now? How do you transform a little experiment to a production ready workflow? Better yet, how do you scale it from a small sample in R/Python to TBs of production data?
 Building a BIG ML Workflow - from zero to hero, is about the work process you need to take in order to have a production ready workflow up and running.
 
 Covering:
 
-* Small - Medium experimentation (R) 
-* Big data implementation (Spark Mllib /+ pipeline) 
-* Setting Metrics and checks in place 
-* Ad hoc querying and exploring your results (Zeppelin) 
+* Small - Medium experimentation (R)
+* Big data implementation (Spark Mllib /+ pipeline)
+* Setting Metrics and checks in place
+* Ad hoc querying and exploring your results (Zeppelin)
 * Painpoints & Lessons learned the hard way (is there any other way?)
 
 **Slides:** http://www.slideshare.net/DanielMarcous/productionready-big-ml-workflows-from-zero-to-hero
@@ -58,7 +58,7 @@ Covering:
 
 
 
-DataTalks #2: Markov blankets for feature selection & app mentions in texts 
+DataTalks #2: Markov blankets for feature selection & app mentions in texts
 ===========================================================================
 **Event page:** https://www.meetup.com/DataHack/events/232842934/
 
@@ -68,7 +68,7 @@ Avishay Meron, PayPal - On feature selection: Key ideas and utilization in fraud
 
 **Title:** On feature selection: Key ideas and utilization in fraud analysis
 
-**Abstract:** Feature selection has been a fertile field of research since the 70’s and proven to increase efficiency and accuracy in learning tasks. In the past decade data has become increasingly larger in both number of instances and number of features. This enormity poses sever challenges with respect to scalability and learning performance. Since the task of feature selection is NP-hard, we are left to approximate a good solution using various heuristics. In this talk we review key ideas and try to sketch guide lines on which heuristic should we follow given a learning task. In addition, we present a utilization of Markov Blankets feature selections for fraud analysis. 
+**Abstract:** Feature selection has been a fertile field of research since the 70’s and proven to increase efficiency and accuracy in learning tasks. In the past decade data has become increasingly larger in both number of instances and number of features. This enormity poses sever challenges with respect to scalability and learning performance. Since the task of feature selection is NP-hard, we are left to approximate a good solution using various heuristics. In this talk we review key ideas and try to sketch guide lines on which heuristic should we follow given a learning task. In addition, we present a utilization of Markov Blankets feature selections for fraud analysis.
 
 
 
@@ -83,7 +83,7 @@ Doron Kukliansky, Facebook - App mentions in texts :iphone:
 
 
 
-DataTalks #3: Dive into Data Science with Python 
+DataTalks #3: Dive into Data Science with Python
 ================================================
 **Event page:** https://www.meetup.com/DataHack/events/237926275/
 
@@ -105,11 +105,11 @@ Yoav Ram, Stanford - Dive into Scientific Python :microscope::snake:
 
 Shay Palachy, Neura - Quick & dirty data science in Python :poop::snake:
 ----------------------------------------------------------
-**Speaker:** Shay Palachy, Neura  
+**Speaker:** Shay Palachy, Neura
 
 **Title:** Quick & dirty data science in Python
 
-**Abstract:** In this talk I will present a classification challenge we had at Neura, and how we tackled it, using the simplest machine learning tools and some dirty heuristics to get a working system with good results in a short amount of time. 
+**Abstract:** In this talk I will present a classification challenge we had at Neura, and how we tackled it, using the simplest machine learning tools and some dirty heuristics to get a working system with good results in a short amount of time.
 
 
 
@@ -123,14 +123,14 @@ Erez Barshir, Easy - Data Science in location-based search :globe_with_meridians
 
 **Title:** Data Science in location-based search
 
-**Abstract:** Local businesses are changing fast. In Israel alone, every two or three minutes some local business changes substantially (open/close/changes location). This means that keeping a dataset of local businesses up-to-date manually is a costly and non-scalable operation. One important aspect of this problem is trying to determine whether a local business is permanently closed. We will examine a data science-based approach to this problem and try to answer some related and more nuanced questions. We will see some of Easy's engineering, real data and code and general approach to such issues. 
+**Abstract:** Local businesses are changing fast. In Israel alone, every two or three minutes some local business changes substantially (open/close/changes location). This means that keeping a dataset of local businesses up-to-date manually is a costly and non-scalable operation. One important aspect of this problem is trying to determine whether a local business is permanently closed. We will examine a data science-based approach to this problem and try to answer some related and more nuanced questions. We will see some of Easy's engineering, real data and code and general approach to such issues.
 
 
 Alex Landa, Trainologic - Python Spark Intro for Data Scientists :snake::boom:
 ----------------------------------------------------------------
 **Speaker:** Alex Landa, Trainologic
 
-**Title:** Python Spark Intro for Data Scientists 
+**Title:** Python Spark Intro for Data Scientists
 
 **Abstract:** As a data scientist you need to know how to handle large data sets, how to clean them, analyze them and get conclusions from them. Spark is a mandatory tool for that - a distributed computation engine that enables you to run map-reduce tasks using a friendly Python (and Scala) API. After this talk you will understand what Spark is and how to start using it. We will cover Spark architecture and workflow, understand the usage of RDD and DataFrame APIs and see some hands-on examples.
 
@@ -138,7 +138,7 @@ Alex Landa, Trainologic - Python Spark Intro for Data Scientists :snake::boom:
 
 
 
-DataTalks #4.5: A Shallow Introduction to Deep Learning 
+DataTalks #4.5: A Shallow Introduction to Deep Learning
 =====================================================
 **Event page:** https://www.meetup.com/DataHack/events/239977617/
 
@@ -188,7 +188,7 @@ Nadav Bar, Google - A Practical Intro To Density Based Clustering :new_moon:
 DataTalks #6: DataHack Champions
 ================================
 
-Our sixth meetup was hosted by Taboola, and featured cool past projects done in DataHack.  
+Our sixth meetup was hosted by Taboola, and featured cool past projects done in DataHack.
 
 **Event page:** https://www.meetup.com/DataHack/events/242508298/
 
@@ -298,7 +298,7 @@ In this talk, I will describe the problem posed by Bayesian learning, how it com
 **Slides:** TBA
 
 
-Or Zuk, HUJI - Testing Independence with Biased Sampling 💪👨👨👨 
+Or Zuk, HUJI - Testing Independence with Biased Sampling 💪👨👨👨
 ---------------------------------------------------------------
 **Speaker:** Or Zuk, The Hebrew University of Jerusalem
 
@@ -337,7 +337,7 @@ Tal Peretz - Mastering The New Generation of Gradient Boosting 🐱🌳
 **More details:** https://talperetz.github.io/Tal-Peretz/mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.html
 
 
-Barak Amar, PerimeterX - Boosting Trees in Production 🚀🌳 
+Barak Amar, PerimeterX - Boosting Trees in Production 🚀🌳
 -------------------------------------------------------------
 **Speaker:** Barak Amar, PerimeterX
 
@@ -382,7 +382,7 @@ In this talk, I will give a general, high-level introduction to this exciting fi
 **Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_10/DataTalks%2010%20-%20Gal%20Yona%20-%20A%20Brief%20Introduction%20to%20Adversarial%20Examples.pdf
 
 
-Yossi Adi - Beyond Classification: Extending and Leveraging Adversarial Examples 🤸🏽‍♀️🏋 
+Yossi Adi - Beyond Classification: Extending and Leveraging Adversarial Examples 🤸🏽‍♀️🏋
 --------------------------------------------------------------------------------------
 **Speaker:** Yossi Adi
 
@@ -911,3 +911,49 @@ In this talk Sivan will describe how Healthy.io uses a single smartphone camera 
 **About the speaker:** Sivan Biham is a Computer Vision and Machine Learning Algorithm Developer at Healthy.io. She holds a B.Sc in Computer Science and Neuroscience and a M.Sc in Computer Science from the Weizmann Institute of Science.
 
 **Video:** https://www.youtube.com/watch?v=e3mfd6yoa6I
+
+
+
+DataTalks #34: Advanced Data Validation ✔️💾
+===========================================
+
+Our 34th DataTalks meetup was host by Amazon Web Services on Floor28, and focused on advanced topics in data validation for machine learning.
+
+**Event page:** https://www.meetup.com/DataHack/events/286156791/
+
+
+Julian Sprung - Dataset Versioning and Feature Stores for ML
+------------------------------------------------------------
+
+**Speaker:** Julian Sprung, AI/ML Specialist Solution Architect, AWS
+
+**Title:** Dataset Versioning and Feature Stores for ML
+
+**Abstract:** In this session we will look at the challenges and strategies to organize and manage your data sets for machine learning training and inference.
+
+While code versioning and reproducible software builds are widely adopted, reproducible machine learning models require additional efforts to track, standardize, version and manage the data sets used for training as well as ensure the same conventions are applied during inference.
+In the first part, we will look at data set versioning approaches such as manifest files and tools such as git LFS or Data Version Control (DVC).
+
+In the second part we will look how the concept of a feature store fits into the picture and how they can help your teams to build reusable data repositories with companywide standards, conventions and validations. Feature stores also provide means for ML linage tracking, point in time feature time travel, feature discovery and feature sharing.
+Last we will have a quick look at the feature store landscape and walk through a quick feature store demo with Amazon SageMaker Feature Store.
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_34/DataTalks%2034%20-%20Julian%20Sprung%20-%20Dataset%20Versioning%20and%20Feature%20Stores.pdf
+
+
+Aviram Berg - Validation & testing techniques through the phases of a DS project
+--------------------------------------------------------------------------------
+
+**Speaker:** Aviram Berg, AI/ML researcher, former DS @ Weizmann Institute of Science
+
+**Title:** Validation & testing techniques through the phases of a DS project
+
+**Abstract:** In this session, we will cover different methods for testing and validating your data from experiments to production on structured and unstructured data.
+
+Data is the core of every decision-making process, thus a data-centric company can better perform its strategy in alignment with the stakeholders' interests. While the above is almost a consensus, companies don't validate enough their data and still use a model-centric validation (such as a confusion matrix). After talking with ~40 Head of Data Science of leading companies, I will share the best practices in validating and testing the data across the different project phases.
+
+In the first part of the lecture, we will cover the pro & cons of the leading tools in each category. Testing tools such as dbt, anomaly detection, and validation tools such as Anodot or Monte Carlo. Also, how to apply data validation methods to unstructured data by synthetic data generation.
+In the second part, we will fit those tools into different pipelines that are supposed to serve different purposes.
+
+Examining the challenges of connecting them together and choosing the right tools for your mission.
+
+**Slides:** https://github.com/DataHackIL/DataTalks/blob/master/DataTalks_34/DataTalks%2034%20-%20Aviram%20Berg%20-%20Data%20Validation%20Pipeline.pdf
