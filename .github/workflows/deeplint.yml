@@ -1,0 +1,26 @@
+name: Deep RST Lint
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v4.0.0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instal dependencies
+        run: pip install docutils
+
+      - name: RST Lint
+        run: rst2html README.rst > output.html --traceback
+
+      - name: Debug RST Line
+        run: rst2html README.rst > output.html --debug
