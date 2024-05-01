@@ -867,7 +867,7 @@ In my lecure I will talk about this research and also tell about a project I did
 
 **𝗣𝗮𝗽𝗲𝗿 𝗹𝗶𝗻𝗸:** https://arxiv.org/pdf/2006.08198v1.pdf
 
-**𝗥𝗲𝗽𝗼:* https://github.com/TAMU-VITA/AGD
+**𝗥𝗲𝗽𝗼:** https://github.com/TAMU-VITA/AGD
 
 **About the speaker:** Yoav Ramon is an ML Engineer and first worker at Hi Auto, A newly founded startup.
 
