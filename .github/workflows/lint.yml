@@ -1,0 +1,23 @@
+name: RST Lint
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v4.0.0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instal dependencies
+        run: pip install rst-lint
+
+      - name: RST Lint
+        run: rst-lint README.rst
