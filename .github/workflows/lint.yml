@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Instal dependencies
-        run: pip install rst-lint
+        run: pip install restructuredtext-lint
 
       - name: RST Lint
         run: rst-lint README.rst
