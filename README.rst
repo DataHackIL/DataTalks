@@ -22,7 +22,7 @@ You can also find us on `Facebook
 
 |
 
-.. contents:: **Past meetups:**
+.. contents:: Past meetups:
 
 ..
    section-numbering:

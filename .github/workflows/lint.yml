@@ -20,4 +20,4 @@ jobs:
         run: pip install restructuredtext-lint
 
       - name: RST Lint
-        run: rst-lint README.rst
+        run: rst-lint README.rst --level debug
